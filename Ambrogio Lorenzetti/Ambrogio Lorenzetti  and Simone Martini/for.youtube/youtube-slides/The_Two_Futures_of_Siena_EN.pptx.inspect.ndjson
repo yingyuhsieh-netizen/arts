@@ -1,0 +1,285 @@
+{"kind":"deck","id":"pr/7ky8xx","name":"Deck"}
+{"kind":"layout","layoutId":"3940d65e-325b-4927-adb1-0f7dbb571bdf","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"c5734046-98c5-49ee-ba47-4a690b496947","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/etlrih","slide":1,"title":"OPENING","textShapes":5}
+{"kind":"shape","id":"sh/zqtcv6pk","slide":1,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/epkv218z","slide":1,"name":"section-1","text":"OPENING","textPreview":"OPENING","textChars":7,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/9gvu1g7m","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/ofmd8bq1","slide":1,"bbox":[52,62,430,588]}
+{"kind":"textbox","id":"sh/nedcz6pg","slide":1,"text":"The Two Futures of Siena","textPreview":"The Two Futures of Siena","textChars":24,"textLines":1,"bbox":[82,128,390,160]}
+{"kind":"textbox","id":"sh/md4v618v","slide":1,"text":"Simone Martini × Ambrogio Lorenzetti\nOne city. Two ways of seeing the world.","textPreview":"Simone Martini × Ambrogio Lorenzetti | One city. Two ways of seeing the world.","textChars":76,"textLines":2,"bbox":[84,334,360,130]}
+{"kind":"shape","id":"sh/pkrupc7i","slide":1,"bbox":[512,64,716,536]}
+{"kind":"textbox","id":"sh/etg7i1oz","slide":1,"text":"Siena, seen from above","textPreview":"Siena, seen from above","textChars":22,"textLines":1,"bbox":[536,606,668,30]}
+{"kind":"image","id":"im/5sbu5kzm","slide":1,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/hkvud4fu","slide":1,"name":"","alt":"Aerial panorama of Siena","bbox":[520,72,700,520]}
+{"kind":"notes","id":"nt/etlrih","slide":1,"text":"Ask an art history student where the Renaissance began, and the answer will usually be Florence.\n\nBut today we stop the clock in 1335 and return to Siena, another Tuscan city whose artistic brilliance was once impossible to ignore.\n\nHere, two painters moved in radically different directions. Simone Martini asked how the divine could be felt; Ambrogio Lorenzetti asked how society could be understood.\n\nThis is not a contest between styles. It is the story of two futures imagined by one city."}
+{"kind":"slide","id":"sl/7dacwm","slide":2,"title":"OPENING","textShapes":5}
+{"kind":"shape","id":"sh/8zat836l","slide":2,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/90juho76","slide":2,"name":"section-2","text":"OPENING","textPreview":"OPENING","textChars":7,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/u1sbatob","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/vm1cjypw","slide":2,"bbox":[52,58,1176,82]}
+{"kind":"textbox","id":"sh/gnatc36h","slide":2,"text":"Stop the clock in 1335—where does the Renaissance begin?","textPreview":"Stop the clock in 1335—where does the Renaissance begin?","textChars":56,"textLines":1,"bbox":[78,69,1124,62]}
+{"kind":"shape","id":"sh/hojul872","slide":2,"bbox":[52,158,570,376]}
+{"kind":"shape","id":"sh/3q1cnip8","slide":2,"bbox":[658,158,570,376]}
+{"kind":"shape","id":"sh/6h8nqt43","slide":2,"bbox":[90,550,1100,100]}
+{"kind":"textbox","id":"sh/t4jm18ne","slide":2,"text":"Siena was not a footnote to Florence. It was a rival center of invention.","textPreview":"Siena was not a footnote to Florence. It was a rival center of invention.","textChars":73,"textLines":1,"bbox":[118,563,1044,66]}
+{"kind":"textbox","id":"sh/8jq5s3mt","slide":2,"text":"Florence / Siena","textPreview":"Florence / Siena","textChars":16,"textLines":1,"bbox":[90,652,1100,22]}
+{"kind":"image","id":"im/2xwbq1gr","slide":2,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/zq9s7qh4","slide":2,"name":"","alt":"Florence cityscape","bbox":[60,166,554,360]}
+{"kind":"image","id":"im/czmtg3ux","slide":2,"name":"","alt":"Siena cityscape","bbox":[666,166,554,360]}
+{"kind":"notes","id":"nt/7dacwm","slide":2,"text":"We often draw art history as a straight line: Giotto, perspective, Florence, and then the Renaissance.\n\nYet a viewer in the early fourteenth century would not necessarily have treated Siena as a side branch. Its cathedral, town hall, altarpieces, and frescoes formed a complete and confident visual culture.\n\nThat culture preserved the sacred force of Byzantine gold, absorbed the elegance of Gothic line, and began to observe emotion, space, and urban life with new intensity.\n\nRecent major exhibitions have returned Siena to the center of the story, reminding us that the road history eventually followed was never the only road available."}
+{"kind":"slide","id":"sl/9uygec","slide":3,"title":"THE REPUBLIC","textShapes":5}
+{"kind":"shape","id":"sh/3q1wvu5w","slide":3,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/2psfmpob","slide":3,"name":"section-3","text":"THE REPUBLIC","textPreview":"THE REPUBLIC","textChars":12,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/1ozetknq","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/gnqdkf65","slide":3,"bbox":[52,76,456,570]}
+{"kind":"textbox","id":"sh/fmhwrapk","slide":3,"text":"A republic turned art into a public language","textPreview":"A republic turned art into a public language","textChars":44,"textLines":1,"bbox":[82,108,396,170]}
+{"kind":"textbox","id":"sh/el8vi5of","slide":3,"text":"Government of the Nine | 1287–1355\nTwo-month terms | Twenty-month wait before returning\nMerchant rulers constrained power through procedure","textPreview":"Government of the Nine | 1287–1355 | Two-month terms | Twenty-month wait before returning | Merchant rulers constrained power through pro...","textChars":139,"textLines":3,"bbox":[84,326,390,220]}
+{"kind":"shape","id":"sh/tkzep07u","slide":3,"bbox":[540,74,684,536]}
+{"kind":"textbox","id":"sh/uh4j21sz","slide":3,"text":"Tuscany and Siena","textPreview":"Tuscany and Siena","textChars":17,"textLines":1,"bbox":[560,616,644,26]}
+{"kind":"image","id":"im/x0ji1sbq","slide":3,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/t83i9cby","slide":3,"name":"","alt":"Map of Tuscany with Siena","bbox":[548,82,668,520]}
+{"kind":"notes","id":"nt/9uygec","slide":3,"text":"To understand why art flourished in Siena, we first need its political structure. From 1287 to 1355, the city was governed by the Nine rather than by a king.\n\nThese rulers largely came from the merchant class. Their terms lasted only two months, and they had to wait twenty months before serving again. During office they were even required to live inside the Palazzo Pubblico, limiting interference from family and private interests.\n\nThis was not modern democracy, but it treated republican order as a shared structure that had to be continually maintained.\n\nIn that setting, art could become more than private devotion or family display. It could teach citizens how to see institutions, duties, and the common good."}
+{"kind":"slide","id":"sl/cpwglf","slide":4,"title":"THE REPUBLIC","textShapes":5}
+{"kind":"shape","id":"sh/ovipwbah","slide":4,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/9wr6pgbm","slide":4,"name":"section-4","text":"THE REPUBLIC","textPreview":"THE REPUBLIC","textChars":12,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/epgnq1sz","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/zqpoj6tk","slide":4,"bbox":[52,58,1176,82]}
+{"kind":"textbox","id":"sh/0ry5sra5","slide":4,"text":"The town hall was not a palace—it was a political statement","textPreview":"The town hall was not a palace—it was a political statement","textChars":59,"textLines":1,"bbox":[78,69,1124,62]}
+{"kind":"shape","id":"sh/1s76lwbq","slide":4,"bbox":[52,158,570,376]}
+{"kind":"shape","id":"sh/jm9ovqt4","slide":4,"bbox":[658,158,570,376]}
+{"kind":"shape","id":"sh/29kv2psn","slide":4,"bbox":[90,550,1100,100]}
+{"kind":"textbox","id":"sh/pcbed4be","slide":4,"text":"Palazzo Pubblico | begun 1297, completed 1310\nTorre del Mangia | civic confidence made vertical","textPreview":"Palazzo Pubblico | begun 1297, completed 1310 | Torre del Mangia | civic confidence made vertical","textChars":95,"textLines":2,"bbox":[118,563,1044,66]}
+{"kind":"textbox","id":"sh/4b2d4zat","slide":4,"text":"Palazzo Pubblico and Torre del Mangia","textPreview":"Palazzo Pubblico and Torre del Mangia","textChars":37,"textLines":1,"bbox":[90,652,1100,22]}
+{"kind":"image","id":"im/q98r65kf","slide":4,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/f2x87qls","slide":4,"name":"","alt":"Palazzo Pubblico in Siena","bbox":[60,166,554,360]}
+{"kind":"image","id":"im/obqlwrqp","slide":4,"name":"","alt":"Torre del Mangia","bbox":[666,166,554,360]}
+{"kind":"notes","id":"nt/cpwglf","slide":4,"text":"The Nine built themselves not a royal palace but a town hall. The Palazzo Pubblico was begun in 1297 and completed in 1310, facing the shell-shaped Piazza del Campo.\n\nIts message was direct: government stood at the center of the city, and power should remain visible to citizens. The Torre del Mangia later became one of Tuscany's most assertive civic towers.\n\nInside this building, meetings, justice, ritual, and painting overlapped. Art was not office decoration; images were built into the practice of government.\n\nThat is why Simone Martini's enthroned Virgin and Lorenzetti's political allegories could inhabit the same civic complex."}
+{"kind":"slide","id":"sl/s1el58","slide":5,"title":"THE REPUBLIC","textShapes":4}
+{"kind":"shape","id":"sh/1sbyp4n6","slide":5,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/gr2xwzm1","slide":5,"name":"section-5","text":"THE REPUBLIC","textPreview":"THE REPUBLIC","textChars":12,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/r29wju54","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/610fqp4j","slide":5,"bbox":[120,84,1040,552]}
+{"kind":"textbox","id":"sh/t4bel4na","slide":5,"text":"Siena commissioned art in the name of the whole city","textPreview":"Siena commissioned art in the name of the whole city","textChars":52,"textLines":1,"bbox":[180,138,920,180]}
+{"kind":"textbox","id":"sh/s32xszmp","slide":5,"text":"Pilgrimage routes carried wealth and technique\nPublic commissions shaped civic identity\nArt became a mirror of life together","textPreview":"Pilgrimage routes carried wealth and technique | Public commissions shaped civic identity | Art became a mirror of life together","textChars":124,"textLines":3,"bbox":[208,352,864,184]}
+{"kind":"image","id":"im/3uxg325o","slide":5,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/s1el58","slide":5,"text":"Siena also stood on the Via Francigena, the pilgrimage and commercial route that ran from Canterbury to Rome and passed directly through the city center.\n\nTravelers, goods, pigments, techniques, and ideas moved along this road. They brought wealth and connected Siena to a wider European network.\n\nUnlike Florence, where guilds and families often drove major patronage, Siena's most ambitious commissions frequently came from the city government or the cathedral.\n\nThe patron was therefore not simply an individual name but a community. Art acquired a public task: it could open a path toward heaven while also asking how a city should live together."}
+{"kind":"slide","id":"sl/38k2q4","slide":6,"title":"DUCCIO","textShapes":5}
+{"kind":"shape","id":"sh/0nu18n6d","slide":6,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/l832hs7y","slide":6,"name":"section-6","text":"DUCCIO","textPreview":"DUCCIO","textChars":6,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/qhsj2dob","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/bi1kbipw","slide":6,"bbox":[50,74,706,536]}
+{"kind":"textbox","id":"sh/dkj2ds72","slide":6,"text":"Duccio, Maestà, front, 1308–1311","textPreview":"Duccio, Maestà, front, 1308–1311","textChars":32,"textLines":1,"bbox":[70,616,666,26]}
+{"kind":"shape","id":"sh/2dsjytof","slide":6,"bbox":[786,76,438,570]}
+{"kind":"textbox","id":"sh/3e1k7yp0","slide":6,"text":"Duccio did not reject tradition—he taught the icon to breathe","textPreview":"Duccio did not reject tradition—he taught the icon to breathe","textChars":61,"textLines":1,"bbox":[816,110,378,170]}
+{"kind":"textbox","id":"sh/7qhwjqx8","slide":6,"text":"The gold ground remains sacred\nFigures begin to meet one another's gaze\nDrapery, touch, and maternal feeling soften","textPreview":"The gold ground remains sacred | Figures begin to meet one another's gaze | Drapery, touch, and maternal feeling soften","textChars":115,"textLines":3,"bbox":[818,324,372,220]}
+{"kind":"image","id":"im/2lwrqxkz","slide":6,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/ds7apcjm","slide":6,"name":"","alt":"Front of Duccio's Maesta","bbox":[58,82,690,520]}
+{"kind":"notes","id":"nt/38k2q4","slide":6,"text":"Before Martini and Lorenzetti, there was Duccio. Late thirteenth-century Italian icons still centered on gold grounds, frontal figures, and a solemn distance from ordinary life.\n\nDuccio's revolution was not to smash that tradition but to humanize it from within. Figures meet one another's gaze; ranks of angels form a gentle rhythm; the Virgin becomes not only a theological position but a mother who touches her child.\n\nThe folds still obey elegant line, and space is not yet scientific perspective, but viewers begin to feel bodily weight, directed attention, and emotional response.\n\nThe sacred world remains intact, yet it moves closer to human experience."}
+{"kind":"slide","id":"sl/f3ufdp","slide":7,"title":"DUCCIO","textShapes":5}
+{"kind":"shape","id":"sh/xw36x43u","slide":7,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/wvupojm9","slide":7,"name":"section-7","text":"DUCCIO","textPreview":"DUCCIO","textChars":6,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/jylozelk","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/yxc7q94f","slide":7,"bbox":[52,76,456,570]}
+{"kind":"textbox","id":"sh/l0n61o3q","slide":7,"text":"1311: a painting became a citywide public event","textPreview":"1311: a painting became a citywide public event","textChars":47,"textLines":1,"bbox":[82,108,396,170]}
+{"kind":"textbox","id":"sh/kzupsjm5","slide":7,"text":"Bells rang | Shops closed\nCitizens carried candles as the Maestà entered the cathedral\nThe city celebrated for three days","textPreview":"Bells rang | Shops closed | Citizens carried candles as the Maestà entered the cathedral | The city celebrated for three days","textChars":121,"textLines":3,"bbox":[84,326,390,220]}
+{"kind":"shape","id":"sh/72583ylw","slide":7,"bbox":[540,74,684,536]}
+{"kind":"textbox","id":"sh/c3ad07yp","slide":7,"text":"Narrative panels on the back of the Maestà","textPreview":"Narrative panels on the back of the Maestà","textChars":42,"textLines":1,"bbox":[560,616,644,26]}
+{"kind":"image","id":"im/zmxszalc","slide":7,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/nudsrql4","slide":7,"name":"","alt":"Back of Duccio's Maesta","bbox":[548,82,668,520]}
+{"kind":"notes","id":"nt/f3ufdp","slide":7,"text":"Duccio's Maestà was commissioned in 1308 and carried into Siena Cathedral on June 9, 1311. Later accounts describe bells ringing, shops closing, and citizens holding candles as they accompanied it through the city.\n\nThis was not a painting quietly hung after completion. It became a collective civic ritual. The enthroned Virgin and saints served the public altar, while the dense narrative panels on the back invited viewers to read through the life of Christ.\n\nReligion, art, and civic identity overlapped. Siena celebrated not only a painter's skill but the sacred order the city believed it could create.\n\nDuccio's language would now be carried in two very different directions."}
+{"kind":"slide","id":"sl/sm5af8","slide":8,"title":"THE FORK","textShapes":5}
+{"kind":"shape","id":"sh/54vq9kzq","slide":8,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/43mp0fy5","slide":8,"name":"section-8","text":"THE FORK","textPreview":"THE FORK","textChars":8,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/r6d8buhg","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/65472pgv","slide":8,"bbox":[86,62,1108,112]}
+{"kind":"textbox","id":"sh/t8fqd4zm","slide":8,"text":"One inheritance opened onto two futures","textPreview":"One inheritance opened onto two futures","textChars":39,"textLines":1,"bbox":[116,79,1048,78]}
+{"kind":"shape","id":"sh/s76p4zy1","slide":8,"bbox":[86,208,520,420]}
+{"kind":"shape","id":"sh/fax8fexs","slide":8,"bbox":[674,208,520,420]}
+{"kind":"textbox","id":"sh/e9or69g7","slide":8,"text":"SIMONE MARTINI\nEternity | contemplation | grace\nLine and light make divinity perceptible","textPreview":"SIMONE MARTINI | Eternity | contemplation | grace | Line and light make divinity perceptible","textChars":88,"textLines":3,"bbox":[122,242,448,340]}
+{"kind":"textbox","id":"sh/srmx0nex","slide":8,"text":"AMBROGIO LORENZETTI\nHistory | observation | public ethics\nCity and institution make society visible","textPreview":"AMBROGIO LORENZETTI | History | observation | public ethics | City and institution make society visible","textChars":99,"textLines":3,"bbox":[710,242,448,340]}
+{"kind":"image","id":"im/nepcjm50","slide":8,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/sm5af8","slide":8,"text":"Duccio proved that tradition could change from within, but he did not determine a single direction for that change.\n\nSimone Martini intensified elegance, line, gold, and restrained emotion. His paintings ask viewers to pause, contemplate, and sense grace entering the world.\n\nAmbrogio Lorenzetti redirected observation toward buildings, roads, work, justice, and fear. His paintings ask viewers to think about the conditions of collective life.\n\nOne opens an ideal heaven through painting; the other analyzes a real city. The difference is not progress versus delay, but two systems of knowledge."}
+{"kind":"slide","id":"sl/wyi871","slide":9,"title":"SIMONE MARTINI","textShapes":5}
+{"kind":"shape","id":"sh/ydc36dof","slide":9,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/jelkfyp0","slide":9,"name":"section-9","text":"SIMONE MARTINI","textPreview":"SIMONE MARTINI","textChars":14,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/83elcn6h","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/t4nmls72","slide":9,"bbox":[50,74,706,536]}
+{"kind":"textbox","id":"sh/725kjipc","slide":9,"text":"Simone Martini, Maestà, Palazzo Pubblico","textPreview":"Simone Martini, Maestà, Palazzo Pubblico","textChars":40,"textLines":1,"bbox":[70,616,666,26]}
+{"kind":"shape","id":"sh/o7al0j6d","slide":9,"bbox":[786,76,438,570]}
+{"kind":"textbox","id":"sh/98j29o7y","slide":9,"text":"Line makes the divine perceptible","textPreview":"Line makes the divine perceptible","textChars":33,"textLines":1,"bbox":[816,110,378,170]}
+{"kind":"textbox","id":"sh/hk3ih47a","slide":9,"text":"Maestà, 1315\nThe Virgin watches Siena's rulers inside the town hall\nPolitics unfolds beneath a sacred moral gaze","textPreview":"Maestà, 1315 | The Virgin watches Siena's rulers inside the town hall | Politics unfolds beneath a sacred moral gaze","textChars":112,"textLines":3,"bbox":[818,324,372,220]}
+{"kind":"image","id":"im/wjmdkjul","slide":9,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/nutw7ut4","slide":9,"name":"","alt":"Simone Martini Maesta fresco","bbox":[58,82,690,520]}
+{"kind":"notes","id":"nt/wyi871","slide":9,"text":"In 1315, Simone Martini completed his Maestà fresco in the Palazzo Pubblico's Sala del Mappamondo, returning to repair it in 1321.\n\nThe subject extends Duccio's enthroned Virgin, but now it enters the daily life of government. Siena's rulers met beneath the gaze of Mary and the surrounding saints.\n\nThe encircling composition behaves like court ritual: canopy, angels, and saints direct attention toward the center, while minute turns of body and eye sustain an elegant order.\n\nThis is not decoration but visual ethics. Political legitimacy comes from procedure, yet the rulers are also reminded that power remains answerable to a higher moral gaze."}
+{"kind":"slide","id":"sl/pq6nnu","slide":10,"title":"SIMONE MARTINI","textShapes":5}
+{"kind":"shape","id":"sh/vudsju9k","slide":10,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/atkbap8z","slide":10,"name":"section-10","text":"SIMONE MARTINI","textPreview":"SIMONE MARTINI","textChars":14,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/50va947m","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/kzmtgzq1","slide":10,"bbox":[52,76,456,570]}
+{"kind":"textbox","id":"sh/jyds7upg","slide":10,"text":"The Annunciation's drama lives in the space between","textPreview":"The Annunciation's drama lives in the space between","textChars":51,"textLines":1,"bbox":[82,108,396,170]}
+{"kind":"textbox","id":"sh/ix4bep8v","slide":10,"text":"Gabriel advances | Mary withdraws\nGolden speech crosses the open field\nThe lily is symbol and compositional hinge","textPreview":"Gabriel advances | Mary withdraws | Golden speech crosses the open field | The lily is symbol and compositional hinge","textChars":113,"textLines":3,"bbox":[84,326,390,220]}
+{"kind":"shape","id":"sh/l4bad0ri","slide":10,"bbox":[540,74,684,536]}
+{"kind":"textbox","id":"sh/q9sjm94r","slide":10,"text":"Simone Martini and Lippo Memmi, Annunciation, 1333","textPreview":"Simone Martini and Lippo Memmi, Annunciation, 1333","textChars":50,"textLines":1,"bbox":[560,616,644,26]}
+{"kind":"image","id":"im/lkn6pkji","slide":10,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/9s3mh0jq","slide":10,"name":"","alt":"Simone Martini Annunciation","bbox":[548,82,668,520]}
+{"kind":"notes","id":"nt/pq6nnu","slide":10,"text":"The Annunciation of 1333 was painted by Simone Martini with his brother-in-law Lippo Memmi for an altar in Siena Cathedral.\n\nIts power lies not in violent action but in the interval between two figures. Gabriel advances along a diagonal, his drapery still carrying the force of arrival; Mary leans subtly back, gathering her book and responding with surprise held under control.\n\nGolden Latin words travel from the angel's mouth, turning sound into visible presence. The open field between them is not empty: it is the theological instant in which the Incarnation has begun but is not yet complete.\n\nThe lily signifies purity and stabilizes the composition. Emotion remains almost microscopic, which is precisely why it lasts."}
+{"kind":"slide","id":"sl/pfuf9w","slide":11,"title":"SIMONE MARTINI","textShapes":4}
+{"kind":"shape","id":"sh/e5kr2lwr","slide":11,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/f6t8bqxc","slide":11,"name":"section-11","text":"SIMONE MARTINI","textPreview":"SIMONE MARTINI","textChars":14,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/ovm98vet","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/pwvqh0fe","slide":11,"bbox":[120,84,1040,552]}
+{"kind":"textbox","id":"sh/2t4r65w3","slide":11,"text":"Light is not merely painted—it is manufactured","textPreview":"Light is not merely painted—it is manufactured","textChars":46,"textLines":1,"bbox":[180,138,920,180]}
+{"kind":"textbox","id":"sh/3ud8faxo","slide":11,"text":"Punchwork makes gold respond to the viewer\nTempera keeps line sharp and color translucent\nUltramarine, vermilion, and gold organize meaning","textPreview":"Punchwork makes gold respond to the viewer | Tempera keeps line sharp and color translucent | Ultramarine, vermilion, and gold organize m...","textChars":139,"textLines":3,"bbox":[208,352,864,184]}
+{"kind":"image","id":"im/4fyx4jmp","slide":11,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/pfuf9w","slide":11,"text":"Martini's surfaces feel jewel-like not simply because the materials were expensive, but because those materials were engineered as a system of viewing.\n\nArtisans punched repeated patterns into gold leaf. As candlelight or daylight shifted, the surface reflected differently; light was not imitated by paint but physically produced by the object.\n\nEgg tempera preserved the sharpness of line and allowed thin, luminous layers of color. Ultramarine, vermilion, and gold were not random luxury. They directed the eye, established sacred hierarchy, and tuned emotional temperature.\n\nIn this language, beauty is not an added ornament. Beauty is itself a method for approaching divine experience."}
+{"kind":"slide","id":"sl/zgy8pg","slide":12,"title":"SIMONE MARTINI","textShapes":5}
+{"kind":"shape","id":"sh/4nipc7y5","slide":12,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/5or6lcfa","slide":12,"name":"section-12","text":"SIMONE MARTINI","textPreview":"SIMONE MARTINI","textChars":14,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/axg76xgn","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/vypof2h8","slide":12,"bbox":[52,58,1176,82]}
+{"kind":"textbox","id":"sh/wzyp87yt","slide":12,"text":"At Avignon, Sienese elegance entered the courts of Europe","textPreview":"At Avignon, Sienese elegance entered the courts of Europe","textChars":57,"textLines":1,"bbox":[78,69,1124,62]}
+{"kind":"shape","id":"sh/x076hcze","slide":12,"bbox":[52,158,570,376]}
+{"kind":"shape","id":"sh/fu98rmxs","slide":12,"bbox":[658,158,570,376]}
+{"kind":"shape","id":"sh/qx4by9cr","slide":12,"bbox":[90,550,1100,100]}
+{"kind":"textbox","id":"sh/dkvutovi","slide":12,"text":"In Avignon by about 1336\nFriend of Petrarch; illuminator of his Virgil manuscript\nA major source for the International Gothic","textPreview":"In Avignon by about 1336 | Friend of Petrarch; illuminator of his Virgil manuscript | A major source for the International Gothic","textChars":125,"textLines":3,"bbox":[118,563,1044,66]}
+{"kind":"textbox","id":"sh/szmt0jux","slide":12,"text":"Palais des Papes / frontispiece for Petrarch's Virgil","textPreview":"Palais des Papes / frontispiece for Petrarch's Virgil","textChars":53,"textLines":1,"bbox":[90,652,1100,22]}
+{"kind":"image","id":"im/q18f61oj","slide":12,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/7u1gnqpc","slide":12,"name":"","alt":"Palais des Papes in Avignon","bbox":[60,166,554,360]}
+{"kind":"image","id":"im/gvih47m1","slide":12,"name":"","alt":"Virgil frontispiece painted for Petrarch","bbox":[666,166,554,360]}
+{"kind":"notes","id":"nt/zgy8pg","slide":12,"text":"By about 1336, Martini had moved to the papal court at Avignon, carrying Sienese gold, line, and courtly elegance onto a wider European stage.\n\nHe became a friend of the humanist poet Petrarch and painted a now-lost portrait of Petrarch's beloved Laura, which the poet praised in two sonnets.\n\nA surviving witness to their exchange is the frontispiece Martini painted for Petrarch's manuscript of Virgil. It joins a classical author, allegory, and the refined culture of the illuminated book.\n\nMartini shaped French court art and manuscript illumination, becoming a crucial source for the International Gothic. He died in Avignon in 1344, four years before the Black Death."}
+{"kind":"slide","id":"sl/qtbxu3","slide":13,"title":"AMBROGIO LORENZETTI","textShapes":4}
+{"kind":"shape","id":"sh/gnydc32h","slide":13,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/ho7ul832","slide":13,"name":"section-13","text":"AMBROGIO LORENZETTI","textPreview":"AMBROGIO LORENZETTI","textChars":19,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/ipgvedkn","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/3qpcnils","slide":13,"bbox":[120,84,1040,552]}
+{"kind":"textbox","id":"sh/4ridgn2d","slide":13,"text":"Lorenzetti asked an unprecedented question","textPreview":"Lorenzetti asked an unprecedented question","textChars":42,"textLines":1,"bbox":[180,138,920,180]}
+{"kind":"textbox","id":"sh/5srups3y","slide":13,"text":"“Is the order of life together worthy of becoming art?”","textPreview":"“Is the order of life together worthy of becoming art?”","textChars":55,"textLines":1,"bbox":[208,352,864,184]}
+{"kind":"image","id":"im/u9g7adon","slide":13,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/qtbxu3","slide":13,"text":"Now the focus shifts from altar and court to the city. Ambrogio Lorenzetti posed a question that was extraordinary in the fourteenth century: is the order of collective life worthy of becoming the central subject of art?\n\nBefore him, cities were usually backgrounds for sacred stories. Politics might appear through symbols, but rarely as the subject of an entire monumental image system.\n\nLorenzetti does not merely show who rules. He analyzes how power travels through justice, trust, roads, trade, education, and security.\n\nPainting begins to think like political philosophy, and the walls of the council chamber become an argument that rulers must confront every day."}
+{"kind":"slide","id":"sl/g1e6h8","slide":14,"title":"AMBROGIO LORENZETTI","textShapes":5}
+{"kind":"shape","id":"sh/8jm54vqp","slide":14,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/9kv6x0ra","slide":14,"name":"section-14","text":"AMBROGIO LORENZETTI","textPreview":"AMBROGIO LORENZETTI","textChars":19,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/ul4n658v","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/v6dozq90","slide":14,"bbox":[52,58,1176,84]}
+{"kind":"textbox","id":"sh/w7m58vql","slide":14,"text":"Good government becomes a readable chain","textPreview":"Good government becomes a readable chain","textChars":40,"textLines":1,"bbox":[78,70,1124,62]}
+{"kind":"shape","id":"sh/h8f610r6","slide":14,"bbox":[60,164,1160,384]}
+{"kind":"shape","id":"sh/bqt4n69w","slide":14,"bbox":[104,562,1072,92]}
+{"kind":"textbox","id":"sh/j29sfyt0","slide":14,"text":"Justice → Concord → 24 citizens → Common Good\nJustice must become concord before it can reach the common good","textPreview":"Justice → Concord → 24 citizens → Common Good | Justice must become concord before it can reach the common good","textChars":109,"textLines":2,"bbox":[128,573,1024,64]}
+{"kind":"textbox","id":"sh/i10rmtcf","slide":14,"text":"Ambrogio Lorenzetti, Allegory of Good Government, 1338–1339","textPreview":"Ambrogio Lorenzetti, Allegory of Good Government, 1338–1339","textChars":59,"textLines":1,"bbox":[104,658,1072,20]}
+{"kind":"image","id":"im/mpgr61cj","slide":14,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/jy987qtc","slide":14,"name":"","alt":"Allegory of Good Government","bbox":[68,172,1144,368]}
+{"kind":"notes","id":"nt/g1e6h8","slide":14,"text":"Between February 1338 and May 1339, Lorenzetti painted the Allegory and Effects of Good and Bad Government in the meeting room of the Nine. It is not a panorama to absorb at a glance, but an image system to be read through relationships.\n\nJustice passes order by a cord to Concord. Concord gives the same cord to twenty-four citizens, and they carry it toward the ruler who embodies the Common Good.\n\nThe chain insists that public benefit is not a leader's personal gift. It begins in justice and must become a form of concord that citizens can hold together.\n\nFortitude, Prudence, Justice, Temperance, Peace, and Magnanimity surround the ruler. Peace reclines above discarded armor: genuine peace is the social condition in which people can safely lay down their weapons."}
+{"kind":"slide","id":"sl/fo6l4h","slide":15,"title":"AMBROGIO LORENZETTI","textShapes":5}
+{"kind":"shape","id":"sh/qp4zm94n","slide":15,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/rqdgfe58","slide":15,"name":"section-15","text":"AMBROGIO LORENZETTI","textPreview":"AMBROGIO LORENZETTI","textChars":19,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/43mhkzmx","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/p4vyd4ni","slide":15,"bbox":[52,58,1176,84]}
+{"kind":"textbox","id":"sh/21kzip4r","slide":15,"text":"The evidence of good government is ordinary life","textPreview":"The evidence of good government is ordinary life","textChars":48,"textLines":1,"bbox":[78,70,1124,62]}
+{"kind":"shape","id":"sh/32tgbu5c","slide":15,"bbox":[60,164,1160,384]}
+{"kind":"shape","id":"sh/90fiponm","slide":15,"bbox":[104,562,1072,92]}
+{"kind":"textbox","id":"sh/pwfa9snu","slide":15,"text":"Trade | teaching | construction | dance\nTrust allows strangers to share the same street","textPreview":"Trade | teaching | construction | dance | Trust allows strangers to share the same street","textChars":87,"textLines":2,"bbox":[128,573,1024,64]}
+{"kind":"textbox","id":"sh/ov6t0769","slide":15,"text":"Effects of Good Government in the City","textPreview":"Effects of Good Government in the City","textChars":38,"textLines":1,"bbox":[104,658,1072,20]}
+{"kind":"image","id":"im/cze5s7mp","slide":15,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/9s7mtw32","slide":15,"name":"","alt":"Effects of Good Government in the City","bbox":[68,172,1144,368]}
+{"kind":"notes","id":"nt/fo6l4h","slide":15,"text":"Lorenzetti does not prove good government with a crown or a figure of victory. He places the evidence in everyday life: merchants trade, a teacher instructs, craftspeople work, and buildings remain under construction, showing a city capable of imagining tomorrow.\n\nThe most famous detail is the group of women dancing in the street. Sienese law actually prohibited street dancing, so they are not simply genre observation. They are allegorical: only a society with deep trust can picture free public gathering.\n\nThis is one of Europe's earliest monumental public images centered on urban daily life. Political success is measured not only by the ruler's pose but by whether strangers continue to trade, learn, build, and approach one another.\n\nA city's vitality lies less in the thickness of its walls than in the life of its shared spaces."}
+{"kind":"slide","id":"sl/ggzvws","slide":16,"title":"AMBROGIO LORENZETTI","textShapes":5}
+{"kind":"shape","id":"sh/h0vu9o3a","slide":16,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/gzmdgjmp","slide":16,"name":"section-16","text":"AMBROGIO LORENZETTI","textPreview":"AMBROGIO LORENZETTI","textChars":19,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/32dcbylg","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/i14vit4v","slide":16,"bbox":[52,58,1176,84]}
+{"kind":"textbox","id":"sh/5ovudo36","slide":16,"text":"Beyond the walls, roads keep the republic breathing","textPreview":"Beyond the walls, roads keep the republic breathing","textChars":51,"textLines":1,"bbox":[78,70,1124,62]}
+{"kind":"shape","id":"sh/4nmdk3m1","slide":16,"bbox":[60,164,1160,384]}
+{"kind":"shape","id":"sh/y50b6p4r","slide":16,"bbox":[104,562,1072,92]}
+{"kind":"textbox","id":"sh/szup8vyt","slide":16,"text":"Fields sustain the city | markets connect the countryside\nTravelers on the road show that circulation remains safe","textPreview":"Fields sustain the city | markets connect the countryside | Travelers on the road show that circulation remains safe","textChars":114,"textLines":2,"bbox":[128,573,1024,64]}
+{"kind":"textbox","id":"sh/t036h0fe","slide":16,"text":"Effects of Good Government in the Country","textPreview":"Effects of Good Government in the Country","textChars":41,"textLines":1,"bbox":[104,658,1072,20]}
+{"kind":"image","id":"im/za9kvyxs","slide":16,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/2hg3e9gf","slide":16,"name":"","alt":"Effects of Good Government in the Country","bbox":[68,172,1144,368]}
+{"kind":"notes","id":"nt/ggzvws","slide":16,"text":"The vision of good government passes beyond the walls into fields, vineyards, roads, and traveling merchants. The city is not a sealed stage: it depends on rural food and offers the countryside markets, law, and security.\n\nRoads therefore become one of the fresco cycle's central ideas. When people and goods can move, trust becomes prosperity; when routes remain safe, city and land form a mutually sustaining system.\n\nA personification of Security flies above the landscape, promising travelers that they may set out without fear. This is not simply a charming landscape but an image of governmental responsibility for movement, safety, and exchange.\n\nFor Lorenzetti, a republic is not a building. It is a circulation of relationships."}
+{"kind":"slide","id":"sl/zyj86b","slide":17,"title":"AMBROGIO LORENZETTI","textShapes":5}
+{"kind":"shape","id":"sh/4rqtkjy1","slide":17,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/psjudofm","slide":17,"name":"section-17","text":"AMBROGIO LORENZETTI","textPreview":"AMBROGIO LORENZETTI","textChars":19,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/u18bepgz","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/fmhc7uxk","slide":17,"bbox":[50,74,706,536]}
+{"kind":"textbox","id":"sh/hozu94fa","slide":17,"text":"Allegory of Bad Government","textPreview":"Allegory of Bad Government","textChars":26,"textLines":1,"bbox":[70,616,666,26]}
+{"kind":"shape","id":"sh/6xobapgn","slide":17,"bbox":[786,76,438,570]}
+{"kind":"textbox","id":"sh/7yxs3uh8","slide":17,"text":"Bad government is the same city seen in a broken mirror","textPreview":"Bad government is the same city seen in a broken mirror","textChars":55,"textLines":1,"bbox":[816,110,378,170]}
+{"kind":"textbox","id":"sh/fe9c7ylo","slide":17,"text":"Tyranny is encircled by vice\nPower loses its moral foundation\nFear replaces public life","textPreview":"Tyranny is encircled by vice | Power loses its moral foundation | Fear replaces public life","textChars":87,"textLines":3,"bbox":[818,324,372,220]}
+{"kind":"image","id":"im/uxs365w3","slide":17,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/5o3mlkvq","slide":17,"name":"","alt":"Allegory of Bad Government","bbox":[58,82,690,520]}
+{"kind":"notes","id":"nt/zyj86b","slide":17,"text":"On the opposite wall, bad government completes the argument. Tyranny sits at the center, surrounded by Cruelty, Fraud, Anger, Division, War, and other vices.\n\nOn the good side, Justice passes a cord to citizens; on the bad side, Justice is bound. Power no longer flows toward common benefit but closes around fear and self-preservation.\n\nThe fresco refuses to treat disaster as accidental. Street violence, economic paralysis, and social fracture appear as consequences of institutions that have lost their moral foundation.\n\nGood and bad government are not distant worlds. They are two realities the same city can produce under different political conditions."}
+{"kind":"slide","id":"sl/u4henf","slide":18,"title":"AMBROGIO LORENZETTI","textShapes":5}
+{"kind":"shape","id":"sh/vy98rq1k","slide":18,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/ax07ylkf","slide":18,"name":"section-18","text":"AMBROGIO LORENZETTI","textPreview":"AMBROGIO LORENZETTI","textChars":19,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/54bqx0j2","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/k32p4v2h","slide":18,"bbox":[52,58,1176,82]}
+{"kind":"textbox","id":"sh/j298va1w","slide":18,"text":"When trust disappears, circulation stops","textPreview":"When trust disappears, circulation stops","textChars":40,"textLines":1,"bbox":[78,69,1124,62]}
+{"kind":"shape","id":"sh/i10725kb","slide":18,"bbox":[52,158,570,376]}
+{"kind":"shape","id":"sh/07ypsb2x","slide":18,"bbox":[658,158,570,376]}
+{"kind":"shape","id":"sh/j618f2pw","slide":18,"bbox":[90,550,1100,100]}
+{"kind":"textbox","id":"sh/k7a9876h","slide":18,"text":"Roads: movement → blockage\nDancers: freedom → weapons\nPublic space: encounter → fear","textPreview":"Roads: movement → blockage | Dancers: freedom → weapons | Public space: encounter → fear","textChars":84,"textLines":3,"bbox":[118,563,1044,66]}
+{"kind":"textbox","id":"sh/5sjahc72","slide":18,"text":"Effects of Bad Government in city and countryside","textPreview":"Effects of Bad Government in city and countryside","textChars":49,"textLines":1,"bbox":[90,652,1100,22]}
+{"kind":"image","id":"im/t0fy54jy","slide":18,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/o7qh4j2l","slide":18,"name":"","alt":"Effects of Bad Government in the City","bbox":[60,166,554,360]}
+{"kind":"image","id":"im/90jmxgzy","slide":18,"name":"","alt":"Effects of Bad Government in the Country","bbox":[666,166,554,360]}
+{"kind":"notes","id":"nt/u4henf","slide":18,"text":"The city and countryside under bad government reverse the good world point by point. Roads no longer connect markets but are blocked by violence; streets no longer support dancers and trade but fill with weapons, abduction, and destruction.\n\nThe countryside is no longer a place for cultivation or safe travel. War leaves land abandoned, movement collapses, and the circulation between city and country is severed.\n\nLorenzetti's purpose is not an abstract contrast between good and bad people. He shows how trust produces material consequences.\n\nA city's real vitality lies not in monumental walls but in whether strangers still approach one another and believe that the far end of a road contains a future worth exchanging."}
+{"kind":"slide","id":"sl/x17eno","slide":19,"title":"COMPARISON","textShapes":5}
+{"kind":"shape","id":"sh/587mt0v6","slide":19,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/k7e5kvul","slide":19,"name":"section-19","text":"COMPARISON","textPreview":"COMPARISON","textChars":10,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/7apovadc","slide":19,"text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/69gnm5cr","slide":19,"bbox":[86,62,1108,112]}
+{"kind":"textbox","id":"sh/tw76xkv2","slide":19,"text":"Not Gothic versus Renaissance, but two systems of knowledge","textPreview":"Not Gothic versus Renaissance, but two systems of knowledge","textChars":59,"textLines":1,"bbox":[116,79,1048,78]}
+{"kind":"shape","id":"sh/sby5ofuh","slide":19,"bbox":[86,208,520,420]}
+{"kind":"shape","id":"sh/fypozad8","slide":19,"bbox":[674,208,520,420]}
+{"kind":"textbox","id":"sh/uxgnq5cn","slide":19,"text":"MARTINI\nTime | eternity\nSpace | contemplation\nTheology | grace arriving\nPolitics | symbolic ethics\nViewer | feeling and reflection","textPreview":"MARTINI | Time | eternity | Space | contemplation | Theology | grace arriving | Politics | symbolic ethics | Viewer | feeling and reflection","textChars":130,"textLines":6,"bbox":[122,242,448,340]}
+{"kind":"textbox","id":"sh/8zi94v2t","slide":19,"text":"LORENZETTI\nTime | history\nSpace | observation\nTheology | public ethics\nPolitics | direct analysis\nViewer | reading and reasoning","textPreview":"LORENZETTI | Time | history | Space | observation | Theology | public ethics | Politics | direct analysis | Viewer | reading and reasoning","textChars":128,"textLines":6,"bbox":[710,242,448,340]}
+{"kind":"image","id":"im/zq9o3epg","slide":19,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/x17eno","slide":19,"text":"We can now define the difference more precisely. Martini works in eternal time; space serves contemplation; theology concerns the arrival of grace; the viewer is invited to feel and reflect.\n\nLorenzetti works in historical time; space serves observation; theology opens into public ethics; the viewer must read causes and consequences.\n\nMartini helped shape European court art and the International Gothic. Lorenzetti opened the possibility that institutions, shared life, and the ordinary city could enter monumental painting.\n\nThey are not faster and slower travelers on one road. They are answering different questions."}
+{"kind":"slide","id":"sl/fnxpr0","slide":20,"title":"HISTORY TURNS","textShapes":5}
+{"kind":"shape","id":"sh/vy9kf69c","slide":20,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/ax03m1sr","slide":20,"name":"section-20","text":"HISTORY TURNS","textPreview":"HISTORY TURNS","textChars":13,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/5obmlgre","slide":20,"text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/k32lcbat","slide":20,"bbox":[52,58,1176,82]}
+{"kind":"textbox","id":"sh/j294j698","slide":20,"text":"The Black Death severed Siena's future","textPreview":"The Black Death severed Siena's future","textChars":38,"textLines":1,"bbox":[78,69,1124,62]}
+{"kind":"shape","id":"sh/i103q1s3","slide":20,"bbox":[52,158,570,376]}
+{"kind":"shape","id":"sh/sr2lgva5","slide":20,"bbox":[658,158,570,376]}
+{"kind":"shape","id":"sh/3ql0naho","slide":20,"bbox":[90,550,1100,100]}
+{"kind":"textbox","id":"sh/4ruhwfi9","slide":20,"text":"1348 | population roughly 42,000 → 14,000\nThe Lorenzetti brothers died\nCathedral expansion halted; public commissions collapsed","textPreview":"1348 | population roughly 42,000 → 14,000 | The Lorenzetti brothers died | Cathedral expansion halted; public commissions collapsed","textChars":127,"textLines":3,"bbox":[118,563,1044,66]}
+{"kind":"textbox","id":"sh/5s3ipkzu","slide":20,"text":"Dance of Death / the unfinished cathedral expansion","textPreview":"Dance of Death / the unfinished cathedral expansion","textChars":51,"textLines":1,"bbox":[90,652,1100,22]}
+{"kind":"image","id":"im/x83q5k76","slide":20,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/0fqpov6d","slide":20,"name":"","alt":"Dance of Death woodcut","bbox":[60,166,554,360]}
+{"kind":"image","id":"im/1cjax47u","slide":20,"name":"","alt":"Facciatone, unfinished Siena cathedral expansion","bbox":[666,166,554,360]}
+{"kind":"notes","id":"nt/fnxpr0","slide":20,"text":"In 1348, the Black Death devastated Siena. Using the estimate in our source script, the population fell from roughly forty-two thousand to about fourteen thousand, a loss of nearly two thirds.\n\nAmbrogio and his brother Pietro Lorenzetti both died during the plague. Workshops, technical inheritance, and networks of patronage were damaged at the same time.\n\nThe cathedral's ambitious expansion stopped. Today the Facciatone stands like a gigantic wall opening onto an unfinished future. Public finances contracted, and monumental commissions diminished.\n\nSienese art was not simply outcompeted by a more advanced style. It suffered a historical rupture in population, institutions, and cultural continuity."}
+{"kind":"slide","id":"sl/1xlrap","slide":21,"title":"HISTORY TURNS","textShapes":5}
+{"kind":"shape","id":"sh/ni5sby5c","slide":21,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/mhcr2d4r","slide":21,"name":"section-21","text":"HISTORY TURNS","textPreview":"HISTORY TURNS","textChars":13,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/x8nahsne","slide":21,"text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/w7et8nmt","slide":21,"bbox":[52,76,456,570]}
+{"kind":"textbox","id":"sh/b65sfi58","slide":21,"text":"Florence did not defeat Siena—it continued under different conditions","textPreview":"Florence did not defeat Siena—it continued under different conditions","textChars":69,"textLines":1,"bbox":[82,108,396,170]}
+{"kind":"textbox","id":"sh/alwb6d4n","slide":21,"text":"Florence | guilds, banks, family patronage\nSiena | government, cathedral, public commissions\nDifferent institutions shaped different art","textPreview":"Florence | guilds, banks, family patronage | Siena | government, cathedral, public commissions | Different institutions shaped different art","textChars":136,"textLines":3,"bbox":[84,326,390,220]}
+{"kind":"shape","id":"sh/dc3a5ona","slide":21,"bbox":[540,74,684,536]}
+{"kind":"textbox","id":"sh/yt4re507","slide":21,"text":"View of Florence published by Hartmann Schedel, 1493","textPreview":"View of Florence published by Hartmann Schedel, 1493","textChars":52,"textLines":1,"bbox":[560,616,644,26]}
+{"kind":"image","id":"im/5wfq18fy","slide":21,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/tov6tofq","slide":21,"name":"","alt":"Historical view of Florence published in 1493","bbox":[548,82,668,520]}
+{"kind":"notes","id":"nt/1xlrap","slide":21,"text":"Florence also suffered from the plague, but its banking system, guild structure, and later family patronage recovered and expanded, eventually forming another powerful artistic ecology under the Medici.\n\nSiena depended heavily on monumental public commissions from government and cathedral. When population and public finance collapsed, that system was struck with particular force.\n\nThe Renaissance was therefore not Florence defeating Siena in a fair contest. Under different historical conditions, the Florentine path of perspective, classical revival, and private patronage enjoyed greater continuity.\n\nNeither institutional model is simply superior, but each encourages artists to ask different questions."}
+{"kind":"slide","id":"sl/t59796","slide":22,"title":"CONCLUSION","textShapes":4}
+{"kind":"shape","id":"sh/lsbqhw72","slide":22,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/kr29or6h","slide":22,"name":"section-22","text":"CONCLUSION","textPreview":"CONCLUSION","textChars":10,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/7ut8j658","slide":22,"text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/mtkrq1on","slide":22,"bbox":[120,84,1040,552]}
+{"kind":"textbox","id":"sh/9wbqlgne","slide":22,"text":"Siena restores plurality to the origins of Renaissance painting","textPreview":"Siena restores plurality to the origins of Renaissance painting","textChars":63,"textLines":1,"bbox":[180,138,920,180]}
+{"kind":"textbox","id":"sh/8v29sb6t","slide":22,"text":"Art can carry us beyond reality\nArt can also help us understand life together\nBoth ideals remain alive","textPreview":"Art can carry us beyond reality | Art can also help us understand life together | Both ideals remain alive","textChars":102,"textLines":3,"bbox":[208,352,864,184]}
+{"kind":"image","id":"im/zm1c7id8","slide":22,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/t59796","slide":22,"text":"To recover Siena is not to diminish Florence. It is to reopen an art history that has become too straight.\n\nIf Florence often stands for scientific space, classical revival, and individual patronage, Siena shows that poetic line, spiritual experience, and public ethics offered an equally powerful imagination of modernity.\n\nMartini trusted art to carry viewers beyond ordinary reality into a more refined and lyrical spiritual world. Lorenzetti trusted art to analyze institutions and help us understand how strangers live together.\n\nNeither ideal ended with the fourteenth century. We still move between them today."}
+{"kind":"slide","id":"sl/v2ti3n","slide":23,"title":"CONCLUSION","textShapes":5}
+{"kind":"shape","id":"sh/36xcry5s","slide":23,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/25ovyt47","slide":23,"name":"section-23","text":"CONCLUSION","textPreview":"CONCLUSION","textChars":10,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/dczex83u","slide":23,"text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/cbqd43mp","slide":23,"bbox":[46,46,1188,628]}
+{"kind":"shape","id":"sh/q98v2t4j","slide":23,"bbox":[112,158,1056,366]}
+{"kind":"textbox","id":"sh/tgvul4nq","slide":23,"text":"History's final winners are not the only futures worth keeping","textPreview":"History's final winners are not the only futures worth keeping","textChars":62,"textLines":1,"bbox":[160,216,960,150]}
+{"kind":"textbox","id":"sh/sfmdsjm5","slide":23,"text":"We should also cherish those who imagined a different future.","textPreview":"We should also cherish those who imagined a different future.","textChars":61,"textLines":1,"bbox":[196,390,888,76]}
+{"kind":"textbox","id":"sh/ahcn6x8r","slide":23,"text":"Siena: a city that still asks what art can do","textPreview":"Siena: a city that still asks what art can do","textChars":45,"textLines":1,"bbox":[196,604,888,28]}
+{"kind":"image","id":"im/1ovmtgnq","slide":23,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/qxknu1o3","slide":23,"name":"","alt":"Aerial panorama of Siena at the conclusion","bbox":[54,54,1172,612]}
+{"kind":"notes","id":"nt/v2ti3n","slide":23,"text":"Return to the opening question: where did the Renaissance begin? Perhaps what must change is not the answer but the form of the question.\n\nHistory is not a single final winner. It is a field of possibilities preserved or interrupted by institutions, disaster, memory, and choice.\n\nSimone Martini left an ideal heaven made of gold, line, and tenderness. Ambrogio Lorenzetti left a republican city that painted justice, trust, and roads directly onto its walls.\n\nThe futures worth cherishing are not only those that won, but also those that taught history to imagine otherwise."}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Artist YouTube Thumbnail"
+  short_description: "Create 1024x564 artist-story YouTube thumbnails"
+  default_prompt: "Use $artist-youtube-thumbnail with an artist name, reference folder, and video title to create a 1024x564 thumbnail."

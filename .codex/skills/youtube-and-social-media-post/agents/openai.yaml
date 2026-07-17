@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilingual YouTube and Social Posts"
+  short_description: "Create bilingual YouTube and emoji-rich social copy"
+  default_prompt: "Use $youtube-and-social-media-post to create bilingual YouTube descriptions and detailed, emoji-rich narrative social posts from these sources."

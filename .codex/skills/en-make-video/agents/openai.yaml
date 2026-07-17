@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Static Slide Video"
+  short_description: "Create English narrated static-slide MP4 videos"
+  default_prompt: "Use $en-make-video to turn my English slide narration and PNG folder into a natural male-voice MP4."

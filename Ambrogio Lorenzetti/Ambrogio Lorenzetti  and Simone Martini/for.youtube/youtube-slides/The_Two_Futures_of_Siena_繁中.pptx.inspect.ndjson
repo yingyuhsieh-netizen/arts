@@ -1,0 +1,285 @@
+{"kind":"deck","id":"pr/cm12es","name":"Deck"}
+{"kind":"layout","layoutId":"2298f424-107e-491d-b059-76b450b495bc","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"91c382d8-217c-4efe-bfbc-ca8391d421e8","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/cooaz1","slide":1,"title":"開場","textShapes":5}
+{"kind":"shape","id":"sh/knepwri1","slide":1,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/lon65cjm","slide":1,"name":"section-1","text":"開場","textPreview":"開場","textChars":2,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/axc7qx0j","slide":1,"text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/byloz214","slide":1,"bbox":[52,62,430,588]}
+{"kind":"textbox","id":"sh/wzups7ip","slide":1,"text":"錫耶納的兩個未來","textPreview":"錫耶納的兩個未來","textChars":8,"textLines":1,"bbox":[82,128,390,160]}
+{"kind":"textbox","id":"sh/x0361cja","slide":1,"text":"Simone Martini × Ambrogio Lorenzetti\n一座城市，兩種觀看世界的方法","textPreview":"Simone Martini × Ambrogio Lorenzetti | 一座城市，兩種觀看世界的方法","textChars":51,"textLines":2,"bbox":[84,334,360,130]}
+{"kind":"shape","id":"sh/utg72103","slide":1,"bbox":[512,64,716,536]}
+{"kind":"textbox","id":"sh/z6lsj6do","slide":1,"text":"錫耶納全景","textPreview":"錫耶納全景","textChars":5,"textLines":1,"bbox":[536,606,668,30]}
+{"kind":"image","id":"im/at0nytsb","slide":1,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/61kn6dsj","slide":1,"name":"","alt":"Aerial panorama of Siena","bbox":[520,72,700,520]}
+{"kind":"notes","id":"nt/cooaz1","slide":1,"text":"如果你問藝術史學生，文藝復興從哪裡開始，多數答案會指向佛羅倫斯。\n\n但今天，我們把時間停在一三三五年，回到托斯卡尼另一座曾經耀眼得令人難以忽視的城市：錫耶納。\n\n這裡孕育了兩位方向截然不同的大師。Simone Martini 追問神性如何被感知；Ambrogio Lorenzetti 則追問社會如何被理解。\n\n他們不是一場風格競賽，而是錫耶納提出的兩個未來。"}
+{"kind":"slide","id":"sl/v9zwaz","slide":2,"title":"開場","textShapes":5}
+{"kind":"shape","id":"sh/650z6t8n","slide":2,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/r690fy98","slide":2,"name":"section-2","text":"開場","textPreview":"開場","textChars":2,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/43ih4jqh","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/54ridor2","slide":2,"bbox":[52,58,1176,82]}
+{"kind":"textbox","id":"sh/i10z298r","slide":2,"text":"把時間停在 1335 年，文藝復興從哪裡開始？","textPreview":"把時間停在 1335 年，文藝復興從哪裡開始？","textChars":23,"textLines":1,"bbox":[78,69,1124,62]}
+{"kind":"shape","id":"sh/j29gbe9c","slide":2,"bbox":[52,158,570,376]}
+{"kind":"shape","id":"sh/h07y94r6","slide":2,"bbox":[658,158,570,376]}
+{"kind":"shape","id":"sh/0nad8bap","slide":2,"bbox":[90,550,1100,100]}
+{"kind":"textbox","id":"sh/zm1cf694","slide":2,"text":"錫耶納不是佛羅倫斯的註腳；它曾是另一個藝術中心。","textPreview":"錫耶納不是佛羅倫斯的註腳；它曾是另一個藝術中心。","textChars":24,"textLines":1,"bbox":[118,563,1044,66]}
+{"kind":"textbox","id":"sh/e1sv61sj","slide":2,"text":"佛羅倫斯／錫耶納","textPreview":"佛羅倫斯／錫耶納","textChars":8,"textLines":1,"bbox":[90,652,1100,22]}
+{"kind":"image","id":"im/wze1srit","slide":2,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/ts729wzm","slide":2,"name":"","alt":"Florence cityscape","bbox":[60,166,554,360]}
+{"kind":"image","id":"im/ytgnm98f","slide":2,"name":"","alt":"Siena cityscape","bbox":[666,166,554,360]}
+{"kind":"notes","id":"nt/v9zwaz","slide":2,"text":"我們習慣把藝術史畫成一條直線：喬托、透視法、佛羅倫斯，最後通往文藝復興。\n\n然而十四世紀上半葉的觀眾，未必會認為錫耶納只是旁支。它的主教座堂、市政廳、祭壇畫與壁畫，共同塑造出一套完整而自信的視覺文化。\n\n這套文化一面承襲拜占庭金底的神聖感，一面吸收哥德式線條的優雅，也開始觀察情感、空間與城市生活。\n\n近年的大型展覽重新把錫耶納放回歐洲繪畫誕生的核心，提醒我們：歷史最後選擇的道路，並不是當時唯一可能的道路。"}
+{"kind":"slide","id":"sl/1jf88a","slide":3,"title":"共和國","textShapes":5}
+{"kind":"shape","id":"sh/7ydwfax8","slide":3,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/6x4v6pwn","slide":3,"name":"section-3","text":"共和國","textPreview":"共和國","textChars":3,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/5cvedkf2","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/kbmd4feh","slide":3,"bbox":[52,76,456,570]}
+{"kind":"textbox","id":"sh/jatwbaxw","slide":3,"text":"共和制度把藝術變成公共語言","textPreview":"共和制度把藝術變成公共語言","textChars":13,"textLines":1,"bbox":[82,108,396,170]}
+{"kind":"textbox","id":"sh/i9kv25wb","slide":3,"text":"九人政府｜1287–1355\n兩個月任期｜二十個月後才可再任\n商人階層以制度限制權力","textPreview":"九人政府｜1287–1355 | 兩個月任期｜二十個月後才可再任 | 商人階層以制度限制權力","textChars":42,"textLines":3,"bbox":[84,326,390,220]}
+{"kind":"shape","id":"sh/x8bu90f6","slide":3,"bbox":[540,74,684,536]}
+{"kind":"textbox","id":"sh/ul47e90j","slide":3,"text":"托斯卡尼與錫耶納","textPreview":"托斯卡尼與錫耶納","textChars":8,"textLines":1,"bbox":[560,616,644,26]}
+{"kind":"image","id":"im/14be9sfu","slide":3,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/5wre18fm","slide":3,"name":"","alt":"Map of Tuscany with Siena","bbox":[548,82,668,520]}
+{"kind":"notes","id":"nt/1jf88a","slide":3,"text":"錫耶納藝術能夠誕生，先要理解它的政治結構。從一二八七到一三五五年，城市由九人政府管理，而不是由國王統治。\n\n執政者多出身商人階層，每屆任期只有兩個月，卸任後還要等待二十個月才能再次任職。任期內，他們甚至被限制住在市政廳裡，以減少家族與私人利益的干預。\n\n這套制度當然不等於現代民主，卻表明錫耶納把共和秩序視為需要被反覆維護的共同工程。\n\n因此，藝術在這裡不只是私人虔敬或家族炫耀，也能成為全體公民觀看制度、理解責任的公共語言。"}
+{"kind":"slide","id":"sl/u3m744","slide":4,"title":"共和國","textShapes":5}
+{"kind":"shape","id":"sh/xwj2xcz2","slide":4,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/cvq1o7ih","slide":4,"name":"section-4","text":"共和國","textPreview":"共和國","textChars":3,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/nqh0r2h0","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/2p8jix0f","slide":4,"bbox":[52,58,1176,82]}
+{"kind":"textbox","id":"sh/pszitczq","slide":4,"text":"市政廳不是宮殿，而是一份政治宣言","textPreview":"市政廳不是宮殿，而是一份政治宣言","textChars":16,"textLines":1,"bbox":[78,69,1124,62]}
+{"kind":"shape","id":"sh/orq1k7i5","slide":4,"bbox":[52,158,570,376]}
+{"kind":"shape","id":"sh/mlsju10j","slide":4,"bbox":[658,158,570,376]}
+{"kind":"shape","id":"sh/xcry58z2","slide":4,"bbox":[90,550,1100,100]}
+{"kind":"textbox","id":"sh/a90zutgb","slide":4,"text":"Palazzo Pubblico｜1297 開工，1310 落成\nTorre del Mangia｜城市自信的垂直標誌","textPreview":"Palazzo Pubblico｜1297 開工，1310 落成 | Torre del Mangia｜城市自信的垂直標誌","textChars":59,"textLines":2,"bbox":[118,563,1044,66]}
+{"kind":"textbox","id":"sh/ba9g3yhw","slide":4,"text":"市政廳與曼賈塔","textPreview":"市政廳與曼賈塔","textChars":7,"textLines":1,"bbox":[90,652,1100,22]}
+{"kind":"image","id":"im/3mts7qxg","slide":4,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/yd4bm5w3","slide":4,"name":"","alt":"Palazzo Pubblico in Siena","bbox":[60,166,554,360]}
+{"kind":"image","id":"im/balcfi1g","slide":4,"name":"","alt":"Torre del Mangia","bbox":[666,166,554,360]}
+{"kind":"notes","id":"nt/u3m744","slide":4,"text":"九人政府為自己建造的不是王宮，而是市政廳。Palazzo Pubblico 在一二九七年開始興建，一三一〇年落成，正面面向扇形的坎波廣場。\n\n它的建築語言很清楚：政府存在於城市中心，權力應該被公民看見。後來興建的曼賈塔，還刻意成為托斯卡尼最醒目的城市塔樓之一。\n\n在這座建築裡，開會、司法、儀式與繪畫彼此重疊。政府不是把藝術掛在辦公室裡裝飾，而是把圖像納入政治運作。\n\n這也解釋了為什麼 Simone Martini 的聖母與 Lorenzetti 的善政寓言，都會出現在同一座市政建築中。"}
+{"kind":"slide","id":"sl/cvaoer","slide":5,"title":"共和國","textShapes":4}
+{"kind":"shape","id":"sh/jyhkry98","slide":5,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/ix83yts3","slide":5,"name":"section-5","text":"共和國","textPreview":"共和國","textChars":3,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/hwz2pori","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/wvqlwjax","slide":5,"bbox":[120,84,1040,552]}
+{"kind":"textbox","id":"sh/vuhkne9c","slide":5,"text":"錫耶納的藝術，由整座城市共同委託","textPreview":"錫耶納的藝術，由整座城市共同委託","textChars":16,"textLines":1,"bbox":[180,138,920,180]}
+{"kind":"textbox","id":"sh/uto3u9sr","slide":5,"text":"朝聖路帶來財富與技術\n公共委託塑造公民意識\n藝術成為共同生活的鏡子","textPreview":"朝聖路帶來財富與技術 | 公共委託塑造公民意識 | 藝術成為共同生活的鏡子","textChars":33,"textLines":3,"bbox":[208,352,864,184]}
+{"kind":"image","id":"im/dwn6dkne","slide":5,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/cvaoer","slide":5,"text":"錫耶納還位在法蘭西珍那古道上。這條從英格蘭坎特伯雷通往羅馬的朝聖與商業路線，直接穿過市中心。\n\n旅人、貨物、顏料、技術與思想在這裡交換，為城市累積財富，也讓錫耶納接觸更廣闊的歐洲網絡。\n\n與佛羅倫斯常由行會或家族主導的大型贊助不同，錫耶納最重要的作品多由市政府或主教座堂委託。\n\n贊助者不是一個人的名字，而是一個共同體。這使藝術自然地承擔公共角色：它既要通往天堂，也要回答城市如何共同生活。"}
+{"kind":"slide","id":"sl/pfskdi","slide":6,"title":"杜喬","textShapes":5}
+{"kind":"shape","id":"sh/cb6t836d","slide":6,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/dcfu187y","slide":6,"name":"section-6","text":"杜喬","textPreview":"杜喬","textChars":2,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/edobadoj","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/zexc3ip4","slide":6,"bbox":[50,74,706,536]}
+{"kind":"textbox","id":"sh/10fu5s7a","slide":6,"text":"Duccio，《Maestà》正面，1308–1311","textPreview":"Duccio，《Maestà》正面，1308–1311","textChars":27,"textLines":1,"bbox":[70,616,666,26]}
+{"kind":"shape","id":"sh/uhkby98f","slide":6,"bbox":[786,76,438,570]}
+{"kind":"textbox","id":"sh/fidcrep0","slide":6,"text":"杜喬沒有推翻傳統；他讓聖像開始呼吸","textPreview":"杜喬沒有推翻傳統；他讓聖像開始呼吸","textChars":17,"textLines":1,"bbox":[816,110,378,170]}
+{"kind":"textbox","id":"sh/f210futc","slide":6,"text":"金底仍然神聖\n人物開始彼此凝視\n衣褶、觸碰與母子情感變得柔軟","textPreview":"金底仍然神聖 | 人物開始彼此凝視 | 衣褶、觸碰與母子情感變得柔軟","textChars":30,"textLines":3,"bbox":[818,324,372,220]}
+{"kind":"image","id":"im/ap8reh8n","slide":6,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/lwjatgra","slide":6,"name":"","alt":"Front of Duccio's Maesta","bbox":[58,82,690,520]}
+{"kind":"notes","id":"nt/pfskdi","slide":6,"text":"在 Martini 與 Lorenzetti 之前，先有杜喬。十三世紀末的義大利聖像仍以金色背景、正面人物與超然莊嚴為核心。\n\n杜喬的革命不是打碎這套傳統，而是在內部讓它變得更有人情。他讓人物彼此凝視，讓天使的隊列形成柔和節奏，也讓聖母不只是一個神學位置，而是一位會觸碰孩子的母親。\n\n衣褶仍然服從優雅線條，空間也還沒有成為科學透視，但觀者開始感到身體的重量、目光的方向與情感的回應。\n\n這是一個關鍵轉折：神聖世界沒有消失，卻開始向人的經驗靠近。"}
+{"kind":"slide","id":"sl/jmagk5","slide":7,"title":"杜喬","textShapes":5}
+{"kind":"shape","id":"sh/m1c3a5wn","slide":7,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/n2lkjax8","slide":7,"name":"section-7","text":"杜喬","textPreview":"杜喬","textChars":2,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/wrelgzep","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/xsnmpkfa","slide":7,"bbox":[52,76,456,570]}
+{"kind":"textbox","id":"sh/apw3epwj","slide":7,"text":"1311：一幅畫成為全城的公共事件","textPreview":"1311：一幅畫成為全城的公共事件","textChars":17,"textLines":1,"bbox":[82,108,396,170]}
+{"kind":"textbox","id":"sh/vq5knux4","slide":7,"text":"鐘聲齊鳴｜商店停業\n市民持蠟燭護送《Maestà》\n進入主教座堂\n藝術與城市共同慶祝三天","textPreview":"鐘聲齊鳴｜商店停業 | 市民持蠟燭護送《Maestà》 | 進入主教座堂 | 藝術與城市共同慶祝三天","textChars":44,"textLines":4,"bbox":[84,326,390,220]}
+{"kind":"shape","id":"sh/cval4vel","slide":7,"bbox":[540,74,684,536]}
+{"kind":"textbox","id":"sh/l0nut8r6","slide":7,"text":"《Maestà》背面敘事畫面","textPreview":"《Maestà》背面敘事畫面","textChars":14,"textLines":1,"bbox":[560,616,644,26]}
+{"kind":"image","id":"im/krmh0nyd","slide":7,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/oj2hs3y5","slide":7,"name":"","alt":"Back of Duccio's Maesta","bbox":[548,82,668,520]}
+{"kind":"notes","id":"nt/jmagk5","slide":7,"text":"杜喬的《Maestà》在一三〇八年受委託，一三一一年六月九日送入錫耶納主教座堂。根據後來的記載，當天鐘聲齊鳴，商店停業，市民手持蠟燭護送作品進城。\n\n這不是一幅完成後安靜掛起來的畫，而是一場城市共同參與的儀式。正面的聖母與聖徒服務公開祭壇，背面密集的敘事場景則讓觀者沿著故事閱讀基督生平。\n\n宗教、藝術與公民身份在這一刻重疊。錫耶納人慶祝的，不只是一位畫家的技巧，也是城市相信自己能創造何種神聖秩序。\n\n杜喬留下的視覺語言，接著會被兩位後繼者推向不同方向。"}
+{"kind":"slide","id":"sl/hvdkub","slide":8,"title":"轉折","textShapes":5}
+{"kind":"shape","id":"sh/d8zytg3a","slide":8,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/c7qxkbmp","slide":8,"name":"section-8","text":"轉折","textPreview":"轉折","textChars":2,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/zuhgvqlg","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/y98fml4v","slide":8,"bbox":[86,62,1108,112]}
+{"kind":"textbox","id":"sh/lwzyxg36","slide":8,"text":"同一位老師，留下兩種未來","textPreview":"同一位老師，留下兩種未來","textChars":12,"textLines":1,"bbox":[116,79,1048,78]}
+{"kind":"shape","id":"sh/0vqhov21","slide":8,"bbox":[86,208,520,420]}
+{"kind":"shape","id":"sh/nyhgzqlc","slide":8,"bbox":[674,208,520,420]}
+{"kind":"textbox","id":"sh/mx8zqlkr","slide":8,"text":"SIMONE MARTINI\n永恆｜默觀｜恩典\n以線條與光，使神性可感","textPreview":"SIMONE MARTINI | 永恆｜默觀｜恩典 | 以線條與光，使神性可感","textChars":35,"textLines":3,"bbox":[122,242,448,340]}
+{"kind":"textbox","id":"sh/gry54bql","slide":8,"text":"AMBROGIO LORENZETTI\n歷史｜觀察｜公共倫理\n以城市與制度，使社會可見","textPreview":"AMBROGIO LORENZETTI | 歷史｜觀察｜公共倫理 | 以城市與制度，使社會可見","textChars":43,"textLines":3,"bbox":[710,242,448,340]}
+{"kind":"image","id":"im/j61szqls","slide":8,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/hvdkub","slide":8,"text":"杜喬證明了傳統可以從內部改變，但他沒有規定改變只能往一個方向。\n\nSimone Martini 把優雅、線條、金光與克制的情感推到極致。他的畫邀請觀者停下來，進入默觀，感受恩典如何降臨。\n\nAmbrogio Lorenzetti 則把觀察力轉向建築、街道、勞動、司法與恐懼。他的畫要求觀者思考共同生活的條件。\n\n一位以繪畫打開理想天堂，另一位以繪畫分析現實城市。這不是誰更進步，而是兩套知識系統。"}
+{"kind":"slide","id":"sl/t737ag","slide":9,"title":"SIMONE MARTINI","textShapes":5}
+{"kind":"shape","id":"sh/8r2t03up","slide":9,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/9sbut8vu","slide":9,"name":"section-9","text":"SIMONE MARTINI","textPreview":"SIMONE MARTINI","textChars":14,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/yl0butc7","slide":9,"text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/zmtsnyds","slide":9,"bbox":[50,74,706,536]}
+{"kind":"textbox","id":"sh/lobap8vy","slide":9,"text":"Simone Martini，《Maestà》，Palazzo Pubblico","textPreview":"Simone Martini，《Maestà》，Palazzo Pubblico","textChars":40,"textLines":1,"bbox":[70,616,666,26]}
+{"kind":"shape","id":"sh/ax0bqtcb","slide":9,"bbox":[786,76,438,570]}
+{"kind":"textbox","id":"sh/by9sjedw","slide":9,"text":"線條讓神性變得可感","textPreview":"線條讓神性變得可感","textChars":9,"textLines":1,"bbox":[816,110,378,170]}
+{"kind":"textbox","id":"sh/fm9g7y9k","slide":9,"text":"《Maestà》，1315\n聖母在市政廳內凝視統治者\n政治每天在神聖倫理之下展開","textPreview":"《Maestà》，1315 | 聖母在市政廳內凝視統治者 | 政治每天在神聖倫理之下展開","textChars":40,"textLines":3,"bbox":[818,324,372,220]}
+{"kind":"image","id":"im/y54zu58b","slide":9,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/9cfytk7y","slide":9,"name":"","alt":"Simone Martini Maesta fresco","bbox":[58,82,690,520]}
+{"kind":"notes","id":"nt/t737ag","slide":9,"text":"一三一五年，Simone Martini 在 Palazzo Pubblico 的世界地圖廳完成《Maestà》壁畫，後來又在一三二一年修復。\n\n這幅作品延續杜喬的聖母主題，卻把它移入政府日常。執政者每次開會，都在聖母與眾聖徒的凝視下進行。\n\n環繞式構圖像一場宮廷儀式：華蓋、天使與聖徒把視線引向中心，人物的姿態則以極細微的轉身與眼神維持秩序。\n\n它不是單純裝飾，而是一套視覺倫理。權力被提醒，城市的合法性不只來自程序，也必須接受更高道德尺度的觀看。"}
+{"kind":"slide","id":"sl/il9m2g","slide":10,"title":"SIMONE MARTINI","textShapes":5}
+{"kind":"shape","id":"sh/xsvupkzy","slide":10,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/wrmdwfyd","slide":10,"name":"section-10","text":"SIMONE MARTINI","textPreview":"SIMONE MARTINI","textChars":14,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/n2tcjqhg","slide":10,"text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/m1kvqlgb","slide":10,"bbox":[52,76,456,570]}
+{"kind":"textbox","id":"sh/94vul0zm","slide":10,"text":"《聖母領報》的張力，發生在「之間」","textPreview":"《聖母領報》的張力，發生在「之間」","textChars":17,"textLines":1,"bbox":[82,108,396,170]}
+{"kind":"textbox","id":"sh/o32dsvy1","slide":10,"text":"加百列向前｜瑪利亞後傾\n金色話語穿越留白\n百合既是象徵，也是構圖支點","textPreview":"加百列向前｜瑪利亞後傾 | 金色話語穿越留白 | 百合既是象徵，也是構圖支點","textChars":34,"textLines":3,"bbox":[84,326,390,220]}
+{"kind":"shape","id":"sh/zytcfqhk","slide":10,"bbox":[540,74,684,536]}
+{"kind":"textbox","id":"sh/07ipo3mh","slide":10,"text":"Simone Martini 與 Lippo Memmi，《聖母領報》，1333","textPreview":"Simone Martini 與 Lippo Memmi，《聖母領報》，1333","textChars":40,"textLines":1,"bbox":[560,616,644,26]}
+{"kind":"image","id":"im/zu5s3el0","slide":10,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/32l8vuls","slide":10,"name":"","alt":"Simone Martini Annunciation","bbox":[548,82,668,520]}
+{"kind":"notes","id":"nt/il9m2g","slide":10,"text":"一三三三年的《聖母領報》，是 Simone Martini 與妻舅 Lippo Memmi 合作的祭壇畫，原本屬於錫耶納主教座堂。\n\n畫面的力量不在激烈動作，而在兩個人物之間。加百列沿著對角線向前，衣袍仍像剛剛落地；瑪利亞卻把身體微微後傾，手指收住書頁，既驚訝又克制。\n\n天使口中的拉丁文字以金色直接進入畫面，聲音因此成為可見的存在。中間的留白也不是空缺，而是道成肉身尚未完成、卻已經開始的神學瞬間。\n\n百合花標示純潔，也在視覺上穩住兩股相反力量。情感被控制在極小幅度內，反而更持久。"}
+{"kind":"slide","id":"sl/ut2e5y","slide":11,"title":"SIMONE MARTINI","textShapes":4}
+{"kind":"shape","id":"sh/zypgjilc","slide":11,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/yxgzax4r","slide":11,"name":"section-11","text":"SIMONE MARTINI","textPreview":"SIMONE MARTINI","textChars":14,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/9oripc3e","slide":11,"text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/8nihg7mt","slide":11,"bbox":[120,84,1040,552]}
+{"kind":"textbox","id":"sh/7m9gn2l8","slide":11,"text":"光不是被描繪，而是被製造","textPreview":"光不是被描繪，而是被製造","textChars":12,"textLines":1,"bbox":[180,138,920,180]}
+{"kind":"textbox","id":"sh/ml0zex4n","slide":11,"text":"金箔 punchwork 隨觀看角度反射\n蛋彩保留線條的銳利與色層透明\n群青、朱紅與金色構成閱讀秩序","textPreview":"金箔 punchwork 隨觀看角度反射 | 蛋彩保留線條的銳利與色層透明 | 群青、朱紅與金色構成閱讀秩序","textChars":50,"textLines":3,"bbox":[208,352,864,184]}
+{"kind":"image","id":"im/5gnatsfu","slide":11,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/ut2e5y","slide":11,"text":"Martini 的畫面之所以像珠寶，不只是因為昂貴材料，而是因為材料被設計成一種觀看機制。\n\n工匠在金箔上以工具反覆沖壓細小圖樣。當燭光或自然光改變角度，表面會產生不同反射；光不是被顏料模仿，而是由物質真正製造。\n\n蛋彩讓輪廓保持銳利，也能疊出透明而清亮的色層。群青、朱紅與金箔並非隨意炫耀，而是引導目光、區分神聖位階與情緒溫度。\n\n在這套語言裡，美不是附加裝飾。美本身就是通往神性經驗的方法。"}
+{"kind":"slide","id":"sl/6yuasn","slide":12,"title":"SIMONE MARTINI","textShapes":5}
+{"kind":"shape","id":"sh/fat8vedo","slide":12,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/e9kr29c3","slide":12,"name":"section-12","text":"SIMONE MARTINI","textPreview":"SIMONE MARTINI","textChars":14,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/p0va1ovq","slide":12,"text":"12","textPreview":"12","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/ozm98ju5","slide":12,"bbox":[52,58,1176,82]}
+{"kind":"textbox","id":"sh/3yd8zydk","slide":12,"text":"在阿維尼翁，錫耶納風格進入歐洲宮廷","textPreview":"在阿維尼翁，錫耶納風格進入歐洲宮廷","textChars":17,"textLines":1,"bbox":[78,69,1124,62]}
+{"kind":"shape","id":"sh/2x4r6tcf","slide":12,"bbox":[52,158,570,376]}
+{"kind":"shape","id":"sh/c3m9c3uh","slide":12,"bbox":[658,158,570,376]}
+{"kind":"shape","id":"sh/jqxsjuds","slide":12,"bbox":[90,550,1100,100]}
+{"kind":"textbox","id":"sh/4rq9szed","slide":12,"text":"約 1336 前往教廷\n與 Petrarch 交往，為維吉爾手抄本繪製扉頁\n成為國際哥德式的重要養分","textPreview":"約 1336 前往教廷 | 與 Petrarch 交往，為維吉爾手抄本繪製扉頁 | 成為國際哥德式的重要養分","textChars":50,"textLines":3,"bbox":[118,563,1044,66]}
+{"kind":"textbox","id":"sh/5szal4vy","slide":12,"text":"阿維尼翁教宗宮／佩脫拉克的維吉爾手抄本扉頁","textPreview":"阿維尼翁教宗宮／佩脫拉克的維吉爾手抄本扉頁","textChars":21,"textLines":1,"bbox":[90,652,1100,22]}
+{"kind":"image","id":"im/1cnqlo3u","slide":12,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/4jup4jm1","slide":12,"name":"","alt":"Palais des Papes in Avignon","bbox":[60,166,554,360]}
+{"kind":"image","id":"im/9o3ud0fa","slide":12,"name":"","alt":"Virgil frontispiece painted for Petrarch","bbox":[666,166,554,360]}
+{"kind":"notes","id":"nt/6yuasn","slide":12,"text":"約在一三三六年前後，Martini 前往阿維尼翁教廷，把錫耶納的金光、線條與宮廷優雅帶到更大的歐洲舞台。\n\n他與人文主義詩人佩脫拉克建立友誼，曾為佩脫拉克的愛人蘿拉畫像，作品今天已經佚失；佩脫拉克則以十四行詩讚頌它。\n\n現存最重要的見證，是他為佩脫拉克的維吉爾手抄本繪製的扉頁。畫面把古典作者、寓言與細密書籍文化結合在一起。\n\nMartini 的風格影響法國宮廷與手抄本插圖，成為國際哥德式的重要養分。他在一三四四年死於阿維尼翁，比黑死病早四年。"}
+{"kind":"slide","id":"sl/dzad2x","slide":13,"title":"AMBROGIO LORENZETTI","textShapes":4}
+{"kind":"shape","id":"sh/mxs3m5g3","slide":13,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/7y1kvqho","slide":13,"name":"section-13","text":"AMBROGIO LORENZETTI","textPreview":"AMBROGIO LORENZETTI","textChars":19,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/w3ulsfyl","slide":13,"text":"13","textPreview":"13","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/h43m1kzq","slide":13,"bbox":[120,84,1040,552]}
+{"kind":"textbox","id":"sh/u1s3q5gf","slide":13,"text":"Lorenzetti 問了一個前所未有的問題","textPreview":"Lorenzetti 問了一個前所未有的問題","textChars":22,"textLines":1,"bbox":[180,138,920,180]}
+{"kind":"textbox","id":"sh/v2l4zah0","slide":13,"text":"「人類共同生活的秩序，是否值得成為藝術？」","textPreview":"「人類共同生活的秩序，是否值得成為藝術？」","textChars":21,"textLines":1,"bbox":[208,352,864,184]}
+{"kind":"image","id":"im/4fidg7q1","slide":13,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/dzad2x","slide":13,"text":"現在，視線從祭壇與宮廷轉向城市。Ambrogio Lorenzetti 提出的問題，在十四世紀極為罕見：人類共同生活的秩序，是否值得成為藝術的核心？\n\n在他之前，城市通常是宗教故事的背景；政治可以用象徵表示，卻很少成為一整套大型圖像的主題。\n\nLorenzetti 不只畫誰掌權，而是分析權力如何流向司法、信任、道路、交易、教育與安全。\n\n他讓繪畫像政治哲學一樣思考，也讓市政廳的牆面變成統治者每天必須面對的論證。"}
+{"kind":"slide","id":"sl/93aa3o","slide":14,"title":"AMBROGIO LORENZETTI","textShapes":5}
+{"kind":"shape","id":"sh/1gnul0v6","slide":14,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/0fedcvul","slide":14,"name":"section-14","text":"AMBROGIO LORENZETTI","textPreview":"AMBROGIO LORENZETTI","textChars":19,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/ni5cnadc","slide":14,"text":"14","textPreview":"14","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/2hwve5cr","slide":14,"bbox":[52,58,1176,84]}
+{"kind":"textbox","id":"sh/pknupkvi","slide":14,"text":"《善政寓言》把政治變成一條可閱讀的鏈","textPreview":"《善政寓言》把政治變成一條可閱讀的鏈","textChars":18,"textLines":1,"bbox":[78,70,1124,62]}
+{"kind":"shape","id":"sh/ojedgfux","slide":14,"bbox":[60,164,1160,384]}
+{"kind":"shape","id":"sh/ilsb2lcn","slide":14,"bbox":[104,562,1072,92]}
+{"kind":"textbox","id":"sh/4z2h87yp","slide":14,"text":"Justice → Concord → 24 位市民 → Common Good\n正義若不能形成和諧，就無法抵達公共利益","textPreview":"Justice → Concord → 24 位市民 → Common Good | 正義若不能形成和諧，就無法抵達公共利益","textChars":60,"textLines":2,"bbox":[128,573,1024,64]}
+{"kind":"textbox","id":"sh/50by1cza","slide":14,"text":"Ambrogio Lorenzetti，《善政寓言》，1338–1339","textPreview":"Ambrogio Lorenzetti，《善政寓言》，1338–1339","textChars":36,"textLines":1,"bbox":[104,658,1072,20]}
+{"kind":"image","id":"im/3mhov698","slide":14,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/mtoneh8f","slide":14,"name":"","alt":"Allegory of Good Government","bbox":[68,172,1144,368]}
+{"kind":"notes","id":"nt/93aa3o","slide":14,"text":"一三三八年二月至一三三九年五月，Lorenzetti 在九人廳完成《善政與惡政寓言及其影響》。它不是一眼看完的全景，而是一套必須沿著關係閱讀的圖像。\n\n在善政寓言中，Justice，也就是正義，透過繩索把秩序傳給 Concord，和諧。Concord 再把同一條繩索交到二十四位市民手中，最後抵達代表 Common Good 的統治者。\n\n這條視覺鏈說明，公共利益不是領袖個人的恩賜。它必須從正義出發，轉化為公民之間可共同承擔的和諧。\n\n統治者周圍環繞剛毅、審慎、正義、節制、和平與寬宏。尤其和平斜倚坐墊，腳下是失去作用的鎧甲：真正的和平，是讓人可以放心卸下武裝。"}
+{"kind":"slide","id":"sl/zsptqq","slide":15,"title":"AMBROGIO LORENZETTI","textShapes":5}
+{"kind":"shape","id":"sh/adorq9sz","slide":15,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/byx8je9k","slide":15,"name":"section-15","text":"AMBROGIO LORENZETTI","textPreview":"AMBROGIO LORENZETTI","textChars":19,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/k369w3a1","slide":15,"text":"15","textPreview":"15","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/l4zap8rm","slide":15,"bbox":[52,58,1176,84]}
+{"kind":"textbox","id":"sh/y1orutsv","slide":15,"text":"善政的證據，不是王冠，而是日常生活","textPreview":"善政的證據，不是王冠，而是日常生活","textChars":17,"textLines":1,"bbox":[78,70,1124,62]}
+{"kind":"shape","id":"sh/j2xsny9g","slide":15,"bbox":[60,164,1160,384]}
+{"kind":"shape","id":"sh/18vqd4ri","slide":15,"bbox":[104,562,1072,92]}
+{"kind":"textbox","id":"sh/pg72tsja","slide":15,"text":"交易｜授課｜施工｜舞蹈\n信任使陌生人能在同一條街道上生活","textPreview":"交易｜授課｜施工｜舞蹈 | 信任使陌生人能在同一條街道上生活","textChars":28,"textLines":2,"bbox":[128,573,1024,64]}
+{"kind":"textbox","id":"sh/4fy1kn2p","slide":15,"text":"《善政在城市中的影響》","textPreview":"《善政在城市中的影響》","textChars":11,"textLines":1,"bbox":[104,658,1072,20]}
+{"kind":"image","id":"im/cbatkze9","slide":15,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/943ulof2","slide":15,"name":"","alt":"Effects of Good Government in the City","bbox":[68,172,1144,368]}
+{"kind":"notes","id":"nt/zsptqq","slide":15,"text":"接著，Lorenzetti 不用皇冠或勝利女神證明善政，而是把證據放進日常生活。商人交易，教師授課，工匠工作，建築仍在施工，表示城市有能力想像下一個明天。\n\n最著名的細節，是街道上牽手跳舞的女子。當時錫耶納法律實際上禁止街頭舞蹈，因此她們不一定是寫實風俗，而更像寓言：只有在高度信任下，人們才敢自由聚集。\n\n這幅壁畫是歐洲早期少見、以城市日常為核心的大型公共圖像。政治的成敗，不再只看統治者的姿態，而看陌生人是否仍願意交易、學習、建造與靠近彼此。\n\n城市真正的生命力，不在城牆有多厚，而在公共空間能否持續運作。"}
+{"kind":"slide","id":"sl/dml1gh","slide":16,"title":"AMBROGIO LORENZETTI","textShapes":5}
+{"kind":"shape","id":"sh/4vqlg7i1","slide":16,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/5wzm9czm","slide":16,"name":"section-16","text":"AMBROGIO LORENZETTI","textPreview":"AMBROGIO LORENZETTI","textChars":19,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/u5o3ax0z","slide":16,"text":"16","textPreview":"16","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/v6h4321k","slide":16,"bbox":[52,58,1176,84]}
+{"kind":"textbox","id":"sh/w7qlc7i5","slide":16,"text":"城牆之外，道路讓共和國繼續呼吸","textPreview":"城牆之外，道路讓共和國繼續呼吸","textChars":15,"textLines":1,"bbox":[78,70,1124,62]}
+{"kind":"shape","id":"sh/h8zm5cjq","slide":16,"bbox":[60,164,1160,384]}
+{"kind":"shape","id":"sh/72x4zi18","slide":16,"bbox":[104,562,1072,92]}
+{"kind":"textbox","id":"sh/f2l8batw","slide":16,"text":"農田供養城市｜市場連結鄉村\n道路上的商旅，證明流動仍然安全","textPreview":"農田供養城市｜市場連結鄉村 | 道路上的商旅，證明流動仍然安全","textChars":29,"textLines":2,"bbox":[128,573,1024,64]}
+{"kind":"textbox","id":"sh/e1cr25cb","slide":16,"text":"《善政在鄉村中的影響》","textPreview":"《善政在鄉村中的影響》","textChars":11,"textLines":1,"bbox":[104,658,1072,20]}
+{"kind":"image","id":"im/a107q1gj","slide":16,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/zup8bmhw","slide":16,"name":"","alt":"Effects of Good Government in the Country","bbox":[68,172,1144,368]}
+{"kind":"notes","id":"nt/dml1gh","slide":16,"text":"善政的視野越過城牆，延伸到農田、葡萄園、道路與商旅。城市並不是封閉的舞台，它依賴鄉村的糧食，也為鄉村提供市場、法律與安全。\n\n道路因此成為整套壁畫最重要的概念之一。當人與貨物可以流動，信任才會轉化為繁榮；當道路安全，城市與土地才能形成互相供養的系統。\n\n畫面上空飛行的安全寓意，向旅人承諾他們可以不帶恐懼地出發。這不是浪漫風景，而是一個政府對交通、治安與經濟的責任圖像。\n\nLorenzetti 讓我們看見，共和國不是一棟建築，而是一整套持續循環的關係。"}
+{"kind":"slide","id":"sl/b4znzt","slide":17,"title":"AMBROGIO LORENZETTI","textShapes":5}
+{"kind":"shape","id":"sh/t0nu1gvu","slide":17,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/szed8be9","slide":17,"name":"section-17","text":"AMBROGIO LORENZETTI","textPreview":"AMBROGIO LORENZETTI","textChars":19,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/fm5c3qdk","slide":17,"text":"17","textPreview":"17","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/ulwvalwz","slide":17,"bbox":[50,74,706,536]}
+{"kind":"textbox","id":"sh/gnedcve5","slide":17,"text":"《惡政寓言》","textPreview":"《惡政寓言》","textChars":6,"textLines":1,"bbox":[70,616,666,26]}
+{"kind":"shape","id":"sh/bq1crmdg","slide":17,"bbox":[786,76,438,570]}
+{"kind":"textbox","id":"sh/apsby1wv","slide":17,"text":"惡政是同一座城市的鏡像","textPreview":"惡政是同一座城市的鏡像","textChars":11,"textLines":1,"bbox":[816,110,378,170]}
+{"kind":"textbox","id":"sh/sn2107qh","slide":17,"text":"Tyranny 被惡德包圍\n權力失去道德基礎\n恐懼取代公共生活","textPreview":"Tyranny 被惡德包圍 | 權力失去道德基礎 | 恐懼取代公共生活","textChars":31,"textLines":3,"bbox":[818,324,372,220]}
+{"kind":"image","id":"im/nul4j6h0","slide":17,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/0ral8ri9","slide":17,"name":"","alt":"Allegory of Bad Government","bbox":[58,82,690,520]}
+{"kind":"notes","id":"nt/b4znzt","slide":17,"text":"九人廳的對面牆上，惡政完成了整套論證。Tyranny，也就是暴政，坐在中心，被殘酷、欺詐、憤怒、分裂與戰爭等惡德包圍。\n\n在善政一側，正義把繩索交給市民；在惡政一側，正義被束縛。權力不再通往公共利益，而封閉在恐懼與自我保存之中。\n\n這幅畫的重要之處，是它不把災難解釋為偶然。街道暴力、經濟停頓與社會分裂，都被呈現為制度失去道德基礎的結果。\n\n善政與惡政不是兩個遙遠世界，而是同一座城市在不同政治條件下可能抵達的兩種現實。"}
+{"kind":"slide","id":"sl/p5qj67","slide":18,"title":"AMBROGIO LORENZETTI","textShapes":5}
+{"kind":"shape","id":"sh/47654vah","slide":18,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/58f6x0r2","slide":18,"name":"section-18","text":"AMBROGIO LORENZETTI","textPreview":"AMBROGIO LORENZETTI","textChars":19,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/69on65sn","slide":18,"text":"18","textPreview":"18","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/raxoza98","slide":18,"bbox":[52,58,1176,82]}
+{"kind":"textbox","id":"sh/sbq58fat","slide":18,"text":"當信任消失，流動就停止","textPreview":"當信任消失，流動就停止","textChars":11,"textLines":1,"bbox":[78,69,1124,62]}
+{"kind":"shape","id":"sh/tcz61kry","slide":18,"bbox":[52,158,570,376]}
+{"kind":"shape","id":"sh/7edon6to","slide":18,"bbox":[658,158,570,376]}
+{"kind":"shape","id":"sh/it8zilwn","slide":18,"bbox":[90,550,1100,100]}
+{"kind":"textbox","id":"sh/5gjid0vy","slide":18,"text":"道路：流動 → 阻斷\n舞者：自由 → 武裝\n公共空間：相遇 → 恐懼","textPreview":"道路：流動 → 阻斷 | 舞者：自由 → 武裝 | 公共空間：相遇 → 恐懼","textChars":34,"textLines":3,"bbox":[118,563,1044,66]}
+{"kind":"textbox","id":"sh/kfahkved","slide":18,"text":"惡政在城市與鄉村中的影響","textPreview":"惡政在城市與鄉村中的影響","textChars":12,"textLines":1,"bbox":[90,652,1100,22]}
+{"kind":"image","id":"im/y18r6x0b","slide":18,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/va18nm14","slide":18,"name":"","alt":"Effects of Bad Government in the City","bbox":[60,166,554,360]}
+{"kind":"image","id":"im/0vihwze9","slide":18,"name":"","alt":"Effects of Bad Government in the Country","bbox":[666,166,554,360]}
+{"kind":"notes","id":"nt/p5qj67","slide":18,"text":"惡政的城市與鄉村，是善政世界的逐項反轉。道路不再連結市場，而被暴力阻斷；街道不再容納舞者與交易，而充滿武裝、綁架與破壞。\n\n鄉村也不再是可耕作、可旅行的空間。戰爭使土地荒廢，交通中斷，城與鄉之間的循環被切斷。\n\n因此，Lorenzetti 的核心不是抽象地讚美好人、批評壞人，而是讓觀者看到信任如何產生具體後果。\n\n城市真正的生命力，不在宏偉城牆，而在陌生人是否仍願意彼此靠近，是否相信道路的另一端還存在可以交換的未來。"}
+{"kind":"slide","id":"sl/c6h2br","slide":19,"title":"比較","textShapes":5}
+{"kind":"shape","id":"sh/8belcrul","slide":19,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/9cnm5wv6","slide":19,"name":"section-19","text":"比較","textPreview":"比較","textChars":2,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/udw3e1cr","slide":19,"text":"19","textPreview":"19","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/ve5476dc","slide":19,"bbox":[86,62,1108,112]}
+{"kind":"textbox","id":"sh/wfelgbux","slide":19,"text":"不是哥德式 vs. 文藝復興，而是兩套知識系統","textPreview":"不是哥德式 vs. 文藝復興，而是兩套知識系統","textChars":23,"textLines":1,"bbox":[116,79,1048,78]}
+{"kind":"shape","id":"sh/hgnm9gvi","slide":19,"bbox":[86,208,520,420]}
+{"kind":"shape","id":"sh/ihgnilc3","slide":19,"bbox":[674,208,520,420]}
+{"kind":"textbox","id":"sh/jip4bqd8","slide":19,"text":"MARTINI\n時間｜永恆\n空間｜默觀\n神學｜恩典降臨\n政治｜象徵倫理\n觀者｜感受與沉思","textPreview":"MARTINI | 時間｜永恆 | 空間｜默觀 | 神學｜恩典降臨 | 政治｜象徵倫理 | 觀者｜感受與沉思","textChars":44,"textLines":6,"bbox":[122,242,448,340]}
+{"kind":"textbox","id":"sh/nq5c7mt4","slide":19,"text":"LORENZETTI\n時間｜歷史\n空間｜觀察\n神學｜公共倫理\n政治｜直接分析\n觀者｜閱讀與思考","textPreview":"LORENZETTI | 時間｜歷史 | 空間｜觀察 | 神學｜公共倫理 | 政治｜直接分析 | 觀者｜閱讀與思考","textChars":47,"textLines":6,"bbox":[710,242,448,340]}
+{"kind":"image","id":"im/axw32psj","slide":19,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/c6h2br","slide":19,"text":"現在可以更精確地描述兩位大師的分歧。Martini 處理永恆時間，空間服務默觀，神學關注恩典如何降臨，觀者被邀請感受與沉思。\n\nLorenzetti 處理歷史時間，空間服務觀察，神學轉向公共倫理，觀者被要求沿著因果關係閱讀與思考。\n\nMartini 塑造了歐洲宮廷藝術與國際哥德式的美學；Lorenzetti 則開啟公共生活、制度與城市日常進入大型繪畫的可能。\n\n他們不是同一條道路上的快與慢，而是在回答不同問題。"}
+{"kind":"slide","id":"sl/5o2r7d","slide":20,"title":"歷史轉折","textShapes":5}
+{"kind":"shape","id":"sh/szilgny5","slide":20,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/d0rm9sfq","slide":20,"name":"section-20","text":"歷史轉折","textPreview":"歷史轉折","textChars":4,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/e103ixgv","slide":20,"text":"20","textPreview":"20","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/f294b2xg","slide":20,"bbox":[52,58,1176,82]}
+{"kind":"textbox","id":"sh/03ilk7y1","slide":20,"text":"黑死病切斷了錫耶納的未來","textPreview":"黑死病切斷了錫耶納的未來","textChars":12,"textLines":1,"bbox":[78,69,1124,62]}
+{"kind":"shape","id":"sh/14rmdcfm","slide":20,"bbox":[52,158,570,376]}
+{"kind":"shape","id":"sh/n6t4fmxs","slide":20,"bbox":[658,158,570,376]}
+{"kind":"shape","id":"sh/6lgvq9wf","slide":20,"bbox":[90,550,1100,100]}
+{"kind":"textbox","id":"sh/tore14fq","slide":20,"text":"1348｜人口約 42,000 → 14,000\nLorenzetti 兄弟去世\n主教座堂擴建停擺，公共委託銳減","textPreview":"1348｜人口約 42,000 → 14,000 | Lorenzetti 兄弟去世 | 主教座堂擴建停擺，公共委託銳減","textChars":56,"textLines":3,"bbox":[118,563,1044,66]}
+{"kind":"textbox","id":"sh/snidsje5","slide":20,"text":"死亡之舞／錫耶納主教座堂未完成擴建遺跡","textPreview":"死亡之舞／錫耶納主教座堂未完成擴建遺跡","textChars":19,"textLines":1,"bbox":[90,652,1100,22]}
+{"kind":"image","id":"im/i54fqp8v","slide":20,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/7etwbap8","slide":20,"name":"","alt":"Dance of Death woodcut","bbox":[60,166,554,360]}
+{"kind":"image","id":"im/szad0jul","slide":20,"name":"","alt":"Facciatone, unfinished Siena cathedral expansion","bbox":[666,166,554,360]}
+{"kind":"notes","id":"nt/5o2r7d","slide":20,"text":"一三四八年，黑死病重創錫耶納。依腳本採用的估計，人口由約四萬二千人下降到約一萬四千人，城市失去接近三分之二的居民。\n\nAmbrogio 與兄長 Pietro Lorenzetti 都在瘟疫期間去世，整個工作坊、技術傳承與委託網絡同時受到破壞。\n\n主教座堂雄心勃勃的擴建工程被迫停止，今天的 Facciatone 像一面通往未完成未來的巨大牆壁。公共財政收縮，大型委託也隨之減少。\n\n這不是某種風格自然被淘汰，而是一場人口、制度與文化基礎同時崩塌的歷史中斷。"}
+{"kind":"slide","id":"sl/6mb9xp","slide":21,"title":"歷史轉折","textShapes":5}
+{"kind":"shape","id":"sh/hs36pkn2","slide":21,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/gru5wz6h","slide":21,"name":"section-21","text":"歷史轉折","textPreview":"歷史轉折","textChars":4,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/7m1oja50","slide":21,"text":"21","textPreview":"21","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/6lsnq5of","slide":21,"bbox":[52,76,456,570]}
+{"kind":"textbox","id":"sh/toj6lkn6","slide":21,"text":"佛羅倫斯不是「擊敗」錫耶納，而是延續了另一套條件","textPreview":"佛羅倫斯不是「擊敗」錫耶納，而是延續了另一套條件","textChars":24,"textLines":1,"bbox":[82,108,396,170]}
+{"kind":"textbox","id":"sh/8na5sf6l","slide":21,"text":"佛羅倫斯｜行會、銀行、家族私人贊助\n錫耶納｜政府、主教座堂、公共委託\n制度差異塑造不同藝術方向","textPreview":"佛羅倫斯｜行會、銀行、家族私人贊助 | 錫耶納｜政府、主教座堂、公共委託 | 制度差異塑造不同藝術方向","textChars":47,"textLines":3,"bbox":[84,326,390,220]}
+{"kind":"shape","id":"sh/ri5ove54","slide":21,"bbox":[540,74,684,536]}
+{"kind":"textbox","id":"sh/c36hs321","slide":21,"text":"Hartmann Schedel，佛羅倫斯城市圖，1493","textPreview":"Hartmann Schedel，佛羅倫斯城市圖，1493","textChars":29,"textLines":1,"bbox":[560,616,644,26]}
+{"kind":"image","id":"im/be5wfqxg","slide":21,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/fmlc76x8","slide":21,"name":"","alt":"Historical view of Florence published in 1493","bbox":[548,82,668,520]}
+{"kind":"notes","id":"nt/6mb9xp","slide":21,"text":"佛羅倫斯同樣遭受黑死病，但它的銀行體系、行會組織與後來的家族贊助逐漸恢復並擴張，尤其在梅迪奇時代形成另一套強大的藝術生態。\n\n錫耶納依賴市政府與主教座堂的大型公共委託。當人口與公共財政崩潰，這套系統受到的打擊格外直接。\n\n因此，文藝復興不是佛羅倫斯在一場公平競賽中擊敗錫耶納。它是在不同歷史條件下，讓透視、古典復興與私人贊助的道路獲得更長的延續。\n\n兩種制度沒有簡單的高下，卻會讓藝術家提出完全不同的問題。"}
+{"kind":"slide","id":"sl/667rn6","slide":22,"title":"結語","textShapes":4}
+{"kind":"shape","id":"sh/a907yhcj","slide":22,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/ba9o7md4","slide":22,"name":"section-22","text":"結語","textPreview":"結語","textChars":2,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/o7i5w7ud","slide":22,"text":"22","textPreview":"22","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/p8r65cvy","slide":22,"bbox":[120,84,1040,552]}
+{"kind":"textbox","id":"sh/25gnuxc7","slide":22,"text":"錫耶納讓文藝復興的起源重新變得多元","textPreview":"錫耶納讓文藝復興的起源重新變得多元","textChars":17,"textLines":1,"bbox":[180,138,920,180]}
+{"kind":"textbox","id":"sh/n6po32ds","slide":22,"text":"藝術可以帶人超越現實\n也可以幫助人理解共同生活\n兩種理想，至今仍然存在","textPreview":"藝術可以帶人超越現實 | 也可以幫助人理解共同生活 | 兩種理想，至今仍然存在","textChars":35,"textLines":3,"bbox":[208,352,864,184]}
+{"kind":"image","id":"im/8bqt0nm9","slide":22,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/667rn6","slide":22,"text":"重新理解錫耶納，不是降低佛羅倫斯的重要性，而是把一條過度筆直的藝術史重新打開。\n\n如果佛羅倫斯常代表科學化空間、古典復興與個人贊助，錫耶納則讓我們看見詩意線條、精神經驗與公共倫理也曾構成同樣有力的現代性想像。\n\nMartini 相信藝術能帶領觀者超越現實，進入更精緻、更抒情的精神世界。Lorenzetti 相信藝術能分析制度，幫助人理解陌生人如何共同生活。\n\n這兩種理想並沒有隨十四世紀結束。今天我們仍在它們之間來回移動。"}
+{"kind":"slide","id":"sl/dz5hcu","slide":23,"title":"結語","textShapes":5}
+{"kind":"shape","id":"sh/43a94j25","slide":23,"bbox":[18,18,1244,684]}
+{"kind":"textbox","id":"sh/54jqxojq","slide":23,"name":"section-23","text":"結語","textPreview":"結語","textChars":2,"textLines":1,"bbox":[54,32,460,28]}
+{"kind":"textbox","id":"sh/ud87y9k3","slide":23,"text":"23","textPreview":"23","textChars":2,"textLines":1,"bbox":[1168,662,52,22]}
+{"kind":"shape","id":"sh/veh8re18","slide":23,"bbox":[46,46,1188,628]}
+{"kind":"shape","id":"sh/hgzqt4je","slide":23,"bbox":[112,158,1056,366]}
+{"kind":"textbox","id":"sh/m9o7upkr","slide":23,"text":"真正值得珍惜的，不只是歷史最後的勝利者","textPreview":"真正值得珍惜的，不只是歷史最後的勝利者","textChars":19,"textLines":1,"bbox":[160,216,960,150]}
+{"kind":"textbox","id":"sh/7ah8nu1c","slide":23,"text":"而是那些曾經提出不同未來想像的人。","textPreview":"而是那些曾經提出不同未來想像的人。","textChars":17,"textLines":1,"bbox":[196,390,888,76]}
+{"kind":"textbox","id":"sh/zah4r218","slide":23,"text":"錫耶納：一座仍在追問藝術能做什麼的城市","textPreview":"錫耶納：一座仍在追問藝術能做什麼的城市","textChars":19,"textLines":1,"bbox":[196,604,888,28]}
+{"kind":"image","id":"im/6ho7658f","slide":23,"name":"","alt":"Gold leaf and Gothic ornament background","bbox":[0,0,1280,720]}
+{"kind":"image","id":"im/h8z6lk72","slide":23,"name":"","alt":"Aerial panorama of Siena at the conclusion","bbox":[54,54,1172,612]}
+{"kind":"notes","id":"nt/dz5hcu","slide":23,"text":"回到最初的問題：文藝復興從哪裡開始？也許真正需要改變的不是答案，而是提問方式。\n\n歷史不是只有一位最後的勝利者，而是許多可能性在制度、災難、記憶與選擇中被保留或中斷。\n\nSimone Martini 留下了一個由金光、線條與溫柔構成的理想天堂；Ambrogio Lorenzetti 留下一座把正義、信任與道路畫進牆面的共和城市。\n\n真正值得珍惜的，不只是歷史最後的勝利者，而是那些曾經提出不同未來想像的人。"}
