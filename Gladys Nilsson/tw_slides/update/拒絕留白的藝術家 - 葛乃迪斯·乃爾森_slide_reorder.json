@@ -1,0 +1,22 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Gladys Nilsson/tw_slides/拒絕留白的藝術家 - 葛乃迪斯·乃爾森_slide_manifest.json",
+  "original_count": 19,
+  "supplemental_count": 1,
+  "original_final": {
+    "from": "拒絕留白的藝術家 - 葛乃迪斯·乃爾森_slide_0019.png",
+    "to": "拒絕留白的藝術家 - 葛乃迪斯·乃爾森_slide_0020.png",
+    "sha256": "e840ce1a8066bc463662b48aec2aaf525f6b382914d8d6cf171faed42c719e6b"
+  },
+  "supplemental_renames": [
+    {
+      "from": "拒絕留白的藝術家 - 葛乃迪斯·乃爾森_slide_0020.png",
+      "to": "拒絕留白的藝術家 - 葛乃迪斯·乃爾森_slide_0011.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Gladys Nilsson/tw_slides/subtitle/拒絕留白的藝術家 - 葛乃迪斯·乃爾森.txt",
+  "requested_position": 11,
+  "shifted_original_range": {
+    "from": "0011-0018",
+    "to": "0012-0019"
+  }
+}
