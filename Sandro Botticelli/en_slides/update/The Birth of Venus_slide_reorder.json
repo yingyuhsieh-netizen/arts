@@ -1,0 +1,17 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/en_slides/The Birth of Venus_slide_manifest.json",
+  "original_count": 26,
+  "supplemental_count": 1,
+  "original_final": {
+    "from": "The Birth of Venus_slide_0026.png",
+    "to": "The Birth of Venus_slide_0027.png",
+    "sha256": "5ff82a39f78cf080513924dae43cb9fdd374b5afb806ecbcc43cce813af8555f"
+  },
+  "supplemental_renames": [
+    {
+      "from": "The Birth of Venus_slide_0027.png",
+      "to": "The Birth of Venus_slide_0026.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/en_slides/subtitle/The Birth of Venus.txt"
+}
