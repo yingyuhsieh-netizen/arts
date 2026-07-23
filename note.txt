@@ -1,0 +1,81 @@
+Add chrome devtool (~/.codex/config.toml)
+[mcp_servers.chrome-devtools]
+  command = "cmd"
+  args = [
+    "/c",
+    "npx",
+    "-y",
+    "chrome-devtools-mcp@latest",
+] 
+env = { SystemRoot="C:\\Windows", PROGRAMFILES="C:\\Program Files" }
+startup_timeout_ms = 20_000
+
+
+
+# 產生 YouTube thumbnail image
+Thumb image:
+Based on md file and image file, create a YouTube thumbnail image size 1024x564 and tittle is 洛倫澤蒂：錫耶納的哲學畫家
+
+
+使用 $artist-youtube-thumbnail
+藝術家：Simone Martini & Ambrogio Lorenzetti
+參考資料夾：D:\mcp\arts\Ambrogio Lorenzetti\Ambrogio Lorenzetti  and Simone Martini\for.youtube
+影片標題：西蒙內·馬蒂尼 & 安布羅喬·洛倫澤蒂 - 錫耶納的兩個未來
+
+
+# 中文 Video 產生 slide images 並加上背景
+使用 $video-to-slides
+Video path: ./Sandro Botticelli/倫敦1930：維納斯的誕生全球出道.mp4
+背景風格描述：
+Early Renaissance tempera in a graceful, linear style with a soft pastel palette and idealized, flowing mythological beauty that epitomizes Renaissance humanism and Neoplatonic ideals.
+
+
+# English Video 產生 slide images 並加上背景
+使用 $video-to-slides
+Video path: ./Sandro Botticelli/The Birth of Venus.mp4
+背景風格描述：
+Early Renaissance tempera in a graceful, linear style with a soft pastel palette and idealized, flowing mythological beauty that epitomizes Renaissance humanism and Neoplatonic ideals.
+
+
+# 產生中文 video
+使用 $tw-make-video
+旁白 path：
+./Sandro Botticelli/tw_slides/subtitle/倫敦1930：維納斯的誕生全球出道.txt
+圖片 path：
+./Sandro Botticelli/tw_slides/tw_slides/update
+
+# 產生English video
+Use $en-make-video.
+Narration:
+./Sandro Botticelli/en_slides/subtitle/The Birth of Venus.txt
+Images:
+./Sandro Botticelli/en_slides/update
+
+# 中文 Replace 1st slide with youtbute thumimage
+Replace ./Sandro Botticelli/tw_slides/update/倫敦1930：維納斯的誕生全球出道_slide_0001.png by ./Sandro Botticelli/倫敦1930 - 維納斯的誕生 全球出道.png with size 1280x720
+
+# English Replace 1st slide with youtbute thumimage
+Replace ./Sandro Botticelli/en_slides/update/The Birth of Venus_slide_0001.png by ./Sandro Botticelli/The Birth of Venus.png with size 1280x720
+
+
+# 產生YouTube description & social post
+Use $youtube-and-social-media-post with
+./Sandro Botticelli/tw_slides/subtitle/倫敦1930：維納斯的誕生全球出道.txt
+./Sandro Botticelli/en_slides/subtitle/The Birth of Venus.txt
+./Sandro Botticelli/維納斯的誕生.md
+./Sandro Botticelli/維納斯的誕生.txt
+
+# 將英文音檔做影片
+Use $en-video-integrate-audio-slide to combine my English narration audio, slide images, script, and timing manifest into a YouTube-ready MP4.Use $en-video-integrate-audio-slide to create a YouTube-ready video from:
+
+- Narration script:
+  ./Gladys Nilsson/en_slides/subtitle/Gladys_Nilsson_s_Art.txt
+- PNG slides:
+  ./Gladys Nilsson/en_slides/
+- Narration audio:
+  ./Gladys Nilsson/en_slides/audio/Gladys_Nilsson_s_Art_audio.m4a
+- Timing manifest:
+  ./Gladys Nilsson/en_slides/Gladys_Nilsson_s_Art_slide_manifest.json
+
+Save the completed video as:
+./Gladys Nilsson/en_slides/video/Gladys_Nilsson_s_Art.mp4
