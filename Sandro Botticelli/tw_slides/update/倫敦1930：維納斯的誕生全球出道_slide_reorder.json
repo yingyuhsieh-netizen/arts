@@ -1,0 +1,17 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/tw_slides/倫敦1930：維納斯的誕生全球出道_slide_manifest.json",
+  "original_count": 21,
+  "supplemental_count": 1,
+  "original_final": {
+    "from": "倫敦1930：維納斯的誕生全球出道_slide_0021.png",
+    "to": "倫敦1930：維納斯的誕生全球出道_slide_0022.png",
+    "sha256": "a018802938776f1216d1971e50c1a1a02780fefea91ea2be9f42d7310bee757c"
+  },
+  "supplemental_renames": [
+    {
+      "from": "倫敦1930：維納斯的誕生全球出道_slide_0022.png",
+      "to": "倫敦1930：維納斯的誕生全球出道_slide_0021.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Sandro Botticelli/tw_slides/subtitle/倫敦1930：維納斯的誕生全球出道.txt"
+}
