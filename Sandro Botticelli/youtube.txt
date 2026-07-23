@@ -1,11 +1,3 @@
-The Birth of Venus
-
-Title: 倫敦1930 - 維納斯的誕生 全球出道
-
-Title: The Great 1930 Exhibition: When Botticelli’s Venus Conquered London
-# This is English version.
-# MUST USE MALE VOICE.
-# Do not include the artwork’s sale price in the art market.
 1. 倫敦的轟動時刻
     敘事背景： 1930 年 1 月 1 日，倫敦伯林頓府舉辦了史無前例的「義大利藝術展（1200-1900年）」。
     關鍵細節： 這是 《維納斯的誕生》史上第一次離開托斯卡尼地區展出。在此之前，這幅畫在十九世紀初公諸於世時，僅獲得有限的關注。
@@ -29,5 +21,4 @@ Title: The Great 1930 Exhibition: When Botticelli’s Venus Conquered London
     人物原形： 提及畫中維納斯的形象可能參考了當時佛羅倫斯公認的美女 西蒙內塔·微絲普奇（Simonetta Vespucci）。
 7. 從被遺忘到舉世聞名
     內容焦點： 畫作在 19 世紀重新被發現，以及 1930 年倫敦伯林頓府展覽 的轟動效應，當時有超過五十萬人觀展。
-    流行文化影響： 影片可對比 1962 年詹姆斯·龐德電影《第七號情報員》（007中，烏爾蘇拉·安德烈斯從海中走出的經典畫面，這被視為大眾文化對維納斯理想美典型的再現。 
-# MUST USE MALE VOICE.
+    流行文化影響： 影片可對比 1962 年詹姆斯·龐德電影《第七號情報員》（007中，烏爾蘇拉·安德烈斯從海中走出的經典畫面，這被視為大眾文化對維納斯理想美典型的再現。
