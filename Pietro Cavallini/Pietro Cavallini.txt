@@ -22,3 +22,28 @@ Title: Meeting Cavallini in Rome’s Oldest Marian Church
 第六段：【結語：重獲榮耀的導師】
 卡瓦利尼約於 1330 年去世，他的一生見證了藝術從中世紀向文藝復興的跨越。雖然他的名字曾被喬托的光芒所掩蓋，但透過倖存的鑲嵌畫與重新發現的壁畫，我們能清晰地看到：在喬托之前，卡瓦利尼已經獨自開闢了一條通往人性與真實的藝術道路。他不僅是羅馬畫派的靈魂，更是整個文藝復興藝術最重要的根源之一。
 # MUST USE MALE  VOICE.
+
+
+使用 $video-to-slides
+Video path: ./Pietro Cavallini/Meeting_Pietro_Cavallini.mp4
+背景風格描述：
+Roman naturalism -  a sculptural, classically grounded break from flat Byzantine art that used soft chiaroscuro, heavy monumental drapery, and psychologically real faces to give figures weight and humanity before Giotto.
+
+
+Use $en-make-video.
+Narration:
+./Pietro Cavallini/en_slides/subtitle/Meeting_Pietro_Cavallini.txt
+Images:
+./Pietro Cavallini/en_slides/update
+
+
+# English Replace 1st slide with youtbute thumimage
+Replace ./Pietro Cavallini/en_slides/update/Meeting_Pietro_Cavallini_slide_0001.png by ./Pietro Cavallini/youbute/Meeting Cavallini in Rome’s Oldest Marian Church.png with size 1280x720
+
+
+
+# 產生YouTube description & social post
+Use $youtube-and-social-media-post with
+./Pietro Cavallini/tw_slides/subtitle/遇見卡瓦利尼：文藝復興的羅馬先驅.txt
+./Pietro Cavallini/en_slides/subtitle/Meeting_Pietro_Cavallini.txt
+D:\mcp\yymcp\summary\1200\Pietro Cavallini (complete).md
