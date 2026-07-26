@@ -1,0 +1,17 @@
+{
+  "manifest": "D:\\mcp\\arts\\Mona Lisa\\tw_slides\\深度解析：一名竊賊、一面空牆與蒙娜麗莎_slide_manifest.json",
+  "original_count": 24,
+  "supplemental_count": 1,
+  "original_final": {
+    "from": "深度解析：一名竊賊、一面空牆與蒙娜麗莎_slide_0024.png",
+    "to": "深度解析：一名竊賊、一面空牆與蒙娜麗莎_slide_0025.png",
+    "sha256": "d0b8dd92a687cff433333b82389038177700aeaf40b709a4420c77c1eac8f5f4"
+  },
+  "supplemental_renames": [
+    {
+      "from": "深度解析：一名竊賊、一面空牆與蒙娜麗莎_slide_0025.png",
+      "to": "深度解析：一名竊賊、一面空牆與蒙娜麗莎_slide_0024.png"
+    }
+  ],
+  "subtitle": "D:\\mcp\\arts\\Mona Lisa\\tw_slides\\subtitle\\深度解析：一名竊賊、一面空牆與蒙娜麗莎.txt"
+}
