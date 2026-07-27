@@ -43,6 +43,27 @@ High Renaissance oil-on-poplar portraiture defined by sfumato — a smoky, ultra
 
 # English Video 產生 slide images 並加上背景
 使用 $video-to-slides
-Video path: ./Mona Lisa/.mp4
+Video path: ./Mona Lisa/Mona_Lisa_Youtube.mp4
 背景風格描述：
 High Renaissance oil-on-poplar portraiture defined by sfumato — a smoky, ultra-soft blending of tones without hard outlines to create lifelike light, depth, and that elusive smile.
+
+# 產生中文 video
+使用 $tw-make-video
+旁白 path：
+./Mona Lisa/tw_slides/subtitle/深度解析：一名竊賊、一面空牆與蒙娜麗莎.txt
+圖片 path：
+./Mona Lisa/tw_slides/tw_slides/update
+
+# 產生English video
+Use $en-make-video.
+Narration:
+./Mona Lisa/en_slides/subtitle/Mona_Lisa_Youtube.txt
+Images:
+./Mona Lisa/en_slides/update
+
+# 產生YouTube description & social post
+Use $youtube-and-social-media-post with
+./Mona Lisa/tw_slides/subtitle/深度解析：一名竊賊、一面空牆與蒙娜麗莎.txt
+./Mona Lisa/en_slides/subtitle/Mona_Lisa_Youtube.txt
+./Mona Lisa/Leonardo da Vinci Mona Lisa.md
+./Mona Lisa/Mona Lisa YouTube.md

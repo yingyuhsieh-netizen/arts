@@ -1,0 +1,90 @@
+{
+  "video": "/Users/yingyuhsieh/Desktop/mcp/arts/Mona Lisa/Mona_Lisa_Youtube.mp4",
+  "prefix": "Mona_Lisa_Youtube_slide",
+  "slides": [
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0001.png",
+      "start": 0.0
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0002.png",
+      "start": 29.125
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0003.png",
+      "start": 62.916667
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0004.png",
+      "start": 69.625
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0005.png",
+      "start": 109.708333
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0006.png",
+      "start": 128.958333
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0007.png",
+      "start": 133.75
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0008.png",
+      "start": 174.875
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0009.png",
+      "start": 181.958333
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0010.png",
+      "start": 215.833333
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0011.png",
+      "start": 255.708333
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0012.png",
+      "start": 284.416667
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0013.png",
+      "start": 314.916667
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0014.png",
+      "start": 319.583333
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0015.png",
+      "start": 363.541667
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0016.png",
+      "start": 394.625
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0017.png",
+      "start": 400.375
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0018.png",
+      "start": 440.208333
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0019.png",
+      "start": 477.458333
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0020.png",
+      "start": 483.5
+    },
+    {
+      "filename": "Mona_Lisa_Youtube_slide_0021.png",
+      "start": 524.791667
+    }
+  ]
+}
