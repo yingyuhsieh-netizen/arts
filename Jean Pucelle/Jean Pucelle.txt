@@ -112,3 +112,47 @@ Title: Jean Pucelle and the Miniature Revolution
 3. 中世紀大型手抄本通常由多人合作；介紹《貝爾維爾日課經》及《羅伯特・比林聖經》時應同時提及工坊與合作者。
 4. 本機檔名只能作為素材定位，正式字幕與圖說仍應以各館藏頁的作品名、年代、作者歸屬及授權標示為準。
 5. The Met 館藏頁標示的 Public Domain images 可優先用於影片；其他網站圖片在下載與發布前應逐頁確認使用條款。
+
+
+# 中文 Video 產生 slide images 並加上背景
+使用 $video-to-slides
+Video path: ./Jean Pucelle/讓·普塞勒與微型畫革命.mp4
+背景風格描述：
+Jean Pucelle art style; Parisian Gothic manuscript illumination famous for delicate grisaille-modeled, sculpturally rounded figures in unified 3D space with touches of color, merging French court elegance with Italian trecento naturalism from Giotto and Duccio and witty marginal drolleries.
+
+
+# English Video 產生 slide images 並加上背景
+使用 $video-to-slides
+Video path: ./Jean Pucelle/The Miniature Revolution.mp4
+背景風格描述：
+Jean Pucelle art style; Parisian Gothic manuscript illumination famous for delicate grisaille-modeled, sculpturally rounded figures in unified 3D space with touches of color, merging French court elegance with Italian trecento naturalism from Giotto and Duccio and witty marginal drolleries.
+
+
+# 中文 Replace 1st slide with youtbute thumimage
+Replace ./Jean Pucelle/tw_slides/update/讓·普塞勒與微型畫革命_slide_0001.png by ./Jean Pucelle/youtube/被藝術史低估的大師 - 讓・普塞勒與微型畫革命.png with size 1280x720
+
+# English Replace 1st slide with youtbute thumimage
+Replace ./Jean Pucelle/en_slides/update/The Miniature Revolution_slide_0001.png by ./Jean Pucelle/youtube/Jean Pucelle and the Miniature Revolution.png with size 1280x720
+
+
+# 產生中文 video
+使用 $tw-make-video
+旁白 path：
+./Jean Pucelle/tw_slides/subtitle/讓·普塞勒與微型畫革命.txt
+圖片 path：
+./Jean Pucelle/tw_slides/tw_slides/update
+
+# 產生English video
+Use $en-make-video.
+Narration:
+./Jean Pucelle/en_slides/subtitle/The Miniature Revolution.txt
+Images:
+./Jean Pucelle/en_slides/update
+
+
+
+Use $youtube-and-social-media-post with
+./Jean Pucelle/tw_slides/subtitle/讓·普塞勒與微型畫革命.txt
+./Jean Pucelle/en_slides/subtitle/The Miniature Revolution.txt
+./Jean Pucelle/Jean Pucelle (complete).md
+./Jean Pucelle/Jean Pucelle youtube.txt

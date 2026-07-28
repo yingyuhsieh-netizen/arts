@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Jean Pucelle/tw_slides/讓·普塞勒與微型畫革命_slide_manifest.json",
+  "original_count": 18,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "讓·普塞勒與微型畫革命_slide_0018.png",
+    "to": "讓·普塞勒與微型畫革命_slide_0020.png",
+    "sha256": "ed0e020e5df913a777b20610178a66e2d961be00ad569470a2f2d9e13078be09"
+  },
+  "supplemental_renames": [
+    {
+      "from": "讓·普塞勒與微型畫革命_slide_0019.png",
+      "to": "讓·普塞勒與微型畫革命_slide_0018.png"
+    },
+    {
+      "from": "讓·普塞勒與微型畫革命_slide_0020.png",
+      "to": "讓·普塞勒與微型畫革命_slide_0019.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Jean Pucelle/tw_slides/subtitle/讓·普塞勒與微型畫革命.txt"
+}
