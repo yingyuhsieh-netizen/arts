@@ -197,3 +197,47 @@ https://commons.wikimedia.org/wiki/Category:Judith_and_her_Maidservant_by_Artemi
 朱蒂絲計畫、進入、說服、等待、斬擊、帶走、返回。阿布拉扶持、壓制、藏起、傾聽、同行。她們不是歷史事件旁邊的美麗形象；她們就是使歷史發生的人。
 四百年後，我們仍無法從這些畫前移開目光。不是只因為血，而是因為刀有重量、敵人會反抗、英雄也需要同伴。
  
+
+
+# 中文 Video 產生 slide images 並加上背景
+使用 $video-to-slides
+Video path: ./Judith Beheading Holofernes/阿特蜜希雅最震撼的傑作.mp4
+背景風格描述：
+Caravaggesque Baroque Tenebrism — intense chiaroscuro from a single candlelit source, with naturalistic, vividly colored figures and a tense, psychological focus on two women as active, heroic conspirators rather than passive subjects.
+
+# English Video 產生 slide images 並加上背景
+使用 $video-to-slides
+Video path: ./Judith Beheading Holofernes/Shocking_Baroque_Beheading.mp4
+背景風格描述：
+Caravaggesque Baroque Tenebrism — intense chiaroscuro from a single candlelit source, with naturalistic, vividly colored figures and a tense, psychological focus on two women as active, heroic conspirators rather than passive subjects.
+
+# 中文 Replace 1st slide with youtbute thumimage
+Replace ./Judith Beheading Holofernes/tw_slides/update/阿特蜜希雅最震撼的傑作_slide_0001e.png by ./Judith Beheading Holofernes/YouTube/阿特蜜希雅最震撼的傑作.png with size 1280x720
+
+# English Replace 1st slide with youtbute thumimage
+Replace ./Judith Beheading Holofernes/en_slides/update/Shocking_Baroque_Beheading_slide_0001.png by ./Judith Beheading Holofernes/The Most Shocking Beheading in Baroque Art.png with size 1280x720
+
+
+
+# 產生中文 video
+使用 $tw-make-video
+旁白 path：
+./Judith Beheading Holofernes/tw_slides/subtitle/阿特蜜希雅最震撼的傑作.txt
+圖片 path：
+./Judith Beheading Holofernes/tw_slides/tw_slides/update
+
+# 產生English video
+Use $en-make-video.
+Narration:
+./Judith Beheading Holofernes/en_slides/subtitle/Shocking_Baroque_Beheading.txt
+Images:
+./Judith Beheading Holofernes/en_slides/update
+
+
+
+# 產生YouTube description & social post
+Use $youtube-and-social-media-post with
+./Judith Beheading Holofernes/tw_slides/subtitle/倫敦1930：維納斯的誕生全球出道.txt
+./Judith Beheading Holofernes/en_slides/subtitle/The Birth of Venus.txt
+./Judith Beheading Holofernes/維納斯的誕生.md
+./Judith Beheading Holofernes/維納斯的誕生.txt

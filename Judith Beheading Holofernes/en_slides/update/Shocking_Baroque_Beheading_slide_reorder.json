@@ -1,0 +1,17 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Judith Beheading Holofernes/en_slides/Shocking_Baroque_Beheading_slide_manifest.json",
+  "original_count": 18,
+  "supplemental_count": 1,
+  "original_final": {
+    "from": "Shocking_Baroque_Beheading_slide_0018.png",
+    "to": "Shocking_Baroque_Beheading_slide_0019.png",
+    "sha256": "0c3ec30fa2d03a005a59a8af9bc1d3a38e285cabf60353c1c23c6b84400b6a0d"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Shocking_Baroque_Beheading_slide_0019.png",
+      "to": "Shocking_Baroque_Beheading_slide_0018.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Judith Beheading Holofernes/en_slides/subtitle/Shocking_Baroque_Beheading.txt"
+}

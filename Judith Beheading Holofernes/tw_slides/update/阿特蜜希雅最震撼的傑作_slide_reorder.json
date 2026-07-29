@@ -1,0 +1,17 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Judith Beheading Holofernes/tw_slides/阿特蜜希雅最震撼的傑作_slide_manifest.json",
+  "original_count": 23,
+  "supplemental_count": 1,
+  "original_final": {
+    "from": "阿特蜜希雅最震撼的傑作_slide_0023.png",
+    "to": "阿特蜜希雅最震撼的傑作_slide_0024.png",
+    "sha256": "6435d011177402875eaba6320e9e036bd680fb161c11999c617bd587b4f701e1"
+  },
+  "supplemental_renames": [
+    {
+      "from": "阿特蜜希雅最震撼的傑作_slide_0024.png",
+      "to": "阿特蜜希雅最震撼的傑作_slide_0023.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Judith Beheading Holofernes/tw_slides/subtitle/阿特蜜希雅最震撼的傑作.txt"
+}

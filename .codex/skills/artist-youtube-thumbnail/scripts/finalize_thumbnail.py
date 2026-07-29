@@ -49,6 +49,12 @@ def wrap_chars(draw: ImageDraw.ImageDraw, text: str, font: ImageFont.FreeTypeFon
         lines: list[str] = []
         current = ""
         for word in text.split():
+            if draw.textlength(word, font=font) > max_width:
+                if current:
+                    lines.append(current)
+                    current = ""
+                lines.extend(wrap_chars(draw, word, font, max_width))
+                continue
             candidate = f"{current} {word}".strip()
             if current and draw.textlength(candidate, font=font) > max_width:
                 lines.append(current)
@@ -86,6 +92,8 @@ def layout_title(
         primary_lines = wrap_chars(draw, primary, primary_font, box_width)
         secondary_lines = wrap_chars(draw, secondary, secondary_font, box_width)
         if len(primary_lines) > 1:
+            continue
+        if len(secondary_lines) > 2:
             continue
         primary_step = int(primary_font.size * 1.18)
         secondary_step = int(secondary_font.size * 1.22)
