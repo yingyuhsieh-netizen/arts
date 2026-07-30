@@ -237,7 +237,6 @@ Images:
 
 # 產生YouTube description & social post
 Use $youtube-and-social-media-post with
-./Judith Beheading Holofernes/tw_slides/subtitle/倫敦1930：維納斯的誕生全球出道.txt
-./Judith Beheading Holofernes/en_slides/subtitle/The Birth of Venus.txt
-./Judith Beheading Holofernes/維納斯的誕生.md
-./Judith Beheading Holofernes/維納斯的誕生.txt
+./Judith Beheading Holofernes/tw_slides/subtitle/阿特蜜希雅最震撼的傑作.txt
+./Judith Beheading Holofernes/en_slides/subtitle/Shocking_Baroque_Beheading.txt.txt
+./Judith Beheading Holofernes/Artemisia Gentileschi Judith Slaying Holofernes 完整繁中敘事.md
