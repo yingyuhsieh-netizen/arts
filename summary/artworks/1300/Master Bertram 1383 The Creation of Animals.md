@@ -1,9 +1,9 @@
 # 創造動物（格拉博祭壇畫場景）(The Creation of Animals, from the Grabow Altarpiece)
-**伯特拉姆大師 (Master Bertram / Bertram von Minden)**
+**麥斯特·伯特蘭 (Master Bertram / Bertram von Minden)**
 
 ## 畫作解析
 
-《創造動物》（The Creation of Animals）是伯特拉姆大師約一三七九至一三八三年間以蛋彩繪於木板上的畫作，為大型《格拉博祭壇畫》（Grabow Altarpiece，又稱《聖彼得祭壇畫》Petri-Altar）創世紀系列中的一個場景。祭壇畫完全展開時寬度達七點二六公尺，高度為二點七七公尺，是一件規模宏大的哥德式多翼祭壇畫。《創造動物》位於祭壇畫側翼板的上層，是描繪《創世紀》故事的二十四個場景之一。整件祭壇畫目前收藏於漢堡美術館（Hamburger Kunsthalle, Hamburg, Germany）。
+《創造動物》（The Creation of Animals）是麥斯特·伯特蘭約一三七九至一三八三年間以蛋彩繪於木板上的畫作，為大型《格拉博祭壇畫》（Grabow Altarpiece，又稱《聖彼得祭壇畫》Petri-Altar）創世紀系列中的一個場景。祭壇畫完全展開時寬度達七點二六公尺，高度為二點七七公尺，是一件規模宏大的哥德式多翼祭壇畫。《創造動物》位於祭壇畫側翼板的上層，是描繪《創世紀》故事的二十四個場景之一。整件祭壇畫目前收藏於漢堡美術館（Hamburger Kunsthalle, Hamburg, Germany）。
 
 這幅場景是整個格拉博祭壇畫中最廣受讚譽、最具辨識度的畫面之一。構圖的中心是一個擬人化的上帝形象——他身著莊嚴的長袍，面容溫和而威嚴，以監督者的姿態俯視著他剛剛創造的各種生物。上帝的周圍佈滿了各式各樣的動物，從天空中翱翔的飛鳥到水中游弋的魚群，從草地上漫步的大型哺乳動物到角落裡蹲伏的小型生物，整個畫面洋溢著一種生機勃勃的自然活力。
 
