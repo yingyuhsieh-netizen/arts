@@ -214,8 +214,20 @@ Use `assets/end_sticker.png` unless the user supplies another sticker. Overlay i
 - Confirm every original and supplemental PNG has one exact bracketed filename block in the UTF-8 subtitle file, in slide order and without timestamps.
 - Confirm Chinese subtitle and supplemental text use Traditional Chinese with Taiwan wording.
 - Confirm every correction or addition is supported by the audio or an author-directory Markdown file.
-- Delete temporary audio, background, contact sheet, and supplemental JSON only after inspection.
+- Delete temporary audio, background, contact sheet, and supplemental JSON only after the final readability pass.
 - Report the language, original slide count, supplemental slide count, Markdown files reviewed, corrections made, and absolute paths for `update`, audio, and subtitle outputs.
+
+### 11. Perform a final text-readability pass on every updated slide
+
+After every preceding action is complete, inspect every prefixed PNG in `<work-dir>/update/`, not only a contact-sheet sample. Open each slide at its actual output resolution and confirm that a viewer can read all text clearly during normal video playback.
+
+- Check titles, body text, captions, labels, and text over images for adequate font size, contrast, line spacing, margins, and uncluttered placement.
+- Treat clipped text, overly long lines, dense paragraphs, low-contrast lettering, text crossing artwork details, and inconsistent visual hierarchy as readability failures.
+- Adjust only the affected slides. Shorten or rewrap text without changing its supported meaning, enlarge type where needed, strengthen text/background contrast, and reposition text away from busy imagery.
+- Split a dense supplemental slide into multiple consecutively numbered slides instead of shrinking its text. Keep the original final slide last, update subtitle blocks and the reorder record when numbering changes, and reapply the end sticker to the actual final slide.
+- For original video slides, preserve the exact wording and artwork. Improve readability with safe layout, background, or contrast adjustments; do not recreate text with guessed wording or silently alter factual content.
+- Reopen every adjusted PNG and verify it again at actual output resolution. Confirm that its subtitle filename still matches exactly and that all updated PNGs retain the source dimensions.
+- Do not delete the reusable background, contact sheet, or supplemental JSON until this pass and any required rerendering are complete.
 
 ## Resources
 
