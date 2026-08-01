@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Master Bertram/tw_slides/漢堡之光：麥斯特・伯特蘭與北德藝術_slide_manifest.json",
+  "original_count": 17,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "漢堡之光：麥斯特・伯特蘭與北德藝術_slide_0017.png",
+    "to": "漢堡之光：麥斯特・伯特蘭與北德藝術_slide_0019.png",
+    "sha256": "fcdab5894321c7e5dd7b535480c02153a6936be5077a8d9078b9f2f313bde8af"
+  },
+  "supplemental_renames": [
+    {
+      "from": "漢堡之光：麥斯特・伯特蘭與北德藝術_slide_0018.png",
+      "to": "漢堡之光：麥斯特・伯特蘭與北德藝術_slide_0017.png"
+    },
+    {
+      "from": "漢堡之光：麥斯特・伯特蘭與北德藝術_slide_0019.png",
+      "to": "漢堡之光：麥斯特・伯特蘭與北德藝術_slide_0018.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Master Bertram/tw_slides/subtitle/漢堡之光：麥斯特・伯特蘭與北德藝術.txt"
+}

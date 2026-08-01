@@ -1,0 +1,21 @@
+{
+  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Master Bertram/en_slides/Master_Bertram__Gothic_Pioneer_slide_manifest.json",
+  "original_count": 25,
+  "supplemental_count": 2,
+  "original_final": {
+    "from": "Master_Bertram__Gothic_Pioneer_slide_0025.png",
+    "to": "Master_Bertram__Gothic_Pioneer_slide_0027.png",
+    "sha256": "64b1821ff526461207b19ad6002f7ac1417a369f4cf9e87375af2d8b8785524c"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Master_Bertram__Gothic_Pioneer_slide_0026.png",
+      "to": "Master_Bertram__Gothic_Pioneer_slide_0025.png"
+    },
+    {
+      "from": "Master_Bertram__Gothic_Pioneer_slide_0027.png",
+      "to": "Master_Bertram__Gothic_Pioneer_slide_0026.png"
+    }
+  ],
+  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Master Bertram/en_slides/subtitle/Master_Bertram__Gothic_Pioneer.txt"
+}

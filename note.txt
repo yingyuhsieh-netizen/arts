@@ -37,10 +37,10 @@ Video path: ./Sandro Botticelli/The Birth of Venus.mp4
 Early Renaissance tempera in a graceful, linear style with a soft pastel palette and idealized, flowing mythological beauty that epitomizes Renaissance humanism and Neoplatonic ideals.
 
 # 中文 Replace 1st slide with youtbute thumimage
-Replace ./Sandro Botticelli/tw_slides/update/倫敦1930：維納斯的誕生全球出道_slide_0001.png by ./Sandro Botticelli/倫敦1930 - 維納斯的誕生 全球出道.png with size 1280x720
+Replace ./Sandro Botticelli/tw_slides/update/倫敦1930：維納斯的誕生全球出道_slide_0001.png by ./Sandro Botticelli/YouTube/倫敦1930 - 維納斯的誕生 全球出道.png with size 1280x720
 
 # English Replace 1st slide with youtbute thumimage
-Replace ./Sandro Botticelli/en_slides/update/The Birth of Venus_slide_0001.png by ./Sandro Botticelli/The Birth of Venus.png with size 1280x720
+Replace ./Sandro Botticelli/en_slides/update/The Birth of Venus_slide_0001.png by ./Sandro Botticelli/YouTube/The Birth of Venus.png with size 1280x720
 
 
 
