@@ -1,0 +1,86 @@
+{
+  "video": "D:\\mcp\\arts\\Girl with a Pearl Earring\\Painting_with_Light.mp4",
+  "prefix": "Painting_with_Light_slide",
+  "slides": [
+    {
+      "filename": "Painting_with_Light_slide_0001.png",
+      "start": 0.0
+    },
+    {
+      "filename": "Painting_with_Light_slide_0002.png",
+      "start": 23.625
+    },
+    {
+      "filename": "Painting_with_Light_slide_0003.png",
+      "start": 41.125
+    },
+    {
+      "filename": "Painting_with_Light_slide_0004.png",
+      "start": 74.666667
+    },
+    {
+      "filename": "Painting_with_Light_slide_0005.png",
+      "start": 100.166667
+    },
+    {
+      "filename": "Painting_with_Light_slide_0006.png",
+      "start": 130.0
+    },
+    {
+      "filename": "Painting_with_Light_slide_0007.png",
+      "start": 160.708333
+    },
+    {
+      "filename": "Painting_with_Light_slide_0008.png",
+      "start": 178.833333
+    },
+    {
+      "filename": "Painting_with_Light_slide_0009.png",
+      "start": 214.291667
+    },
+    {
+      "filename": "Painting_with_Light_slide_0010.png",
+      "start": 242.5
+    },
+    {
+      "filename": "Painting_with_Light_slide_0011.png",
+      "start": 274.125
+    },
+    {
+      "filename": "Painting_with_Light_slide_0012.png",
+      "start": 310.666667
+    },
+    {
+      "filename": "Painting_with_Light_slide_0013.png",
+      "start": 326.5
+    },
+    {
+      "filename": "Painting_with_Light_slide_0014.png",
+      "start": 358.375
+    },
+    {
+      "filename": "Painting_with_Light_slide_0015.png",
+      "start": 386.5
+    },
+    {
+      "filename": "Painting_with_Light_slide_0016.png",
+      "start": 422.708333
+    },
+    {
+      "filename": "Painting_with_Light_slide_0017.png",
+      "start": 445.625
+    },
+    {
+      "filename": "Painting_with_Light_slide_0018.png",
+      "start": 474.833333
+    },
+    {
+      "filename": "Painting_with_Light_slide_0019.png",
+      "start": 509.625
+    },
+    {
+      "filename": "Painting_with_Light_slide_0020.png",
+      "start": 544.083333
+    }
+  ]
+}

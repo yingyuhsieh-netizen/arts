@@ -1,0 +1,17 @@
+{
+  "manifest": "D:\\mcp\\arts\\Girl with a Pearl Earring\\en_slides\\Painting_with_Light_slide_manifest.json",
+  "original_count": 20,
+  "supplemental_count": 1,
+  "original_final": {
+    "from": "Painting_with_Light_slide_0020.png",
+    "to": "Painting_with_Light_slide_0021.png",
+    "sha256": "c3756b0c9931c17b0fa595301d5d90c5be214ee34c03acd1e1989fa9e3c62e60"
+  },
+  "supplemental_renames": [
+    {
+      "from": "Painting_with_Light_slide_0021.png",
+      "to": "Painting_with_Light_slide_0020.png"
+    }
+  ],
+  "subtitle": "D:\\mcp\\arts\\Girl with a Pearl Earring\\en_slides\\subtitle\\Painting_with_Light.txt"
+}

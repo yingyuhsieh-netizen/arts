@@ -1,17 +1,21 @@
 {
-  "manifest": "/Users/yingyuhsieh/Desktop/mcp/arts/Girl with a Pearl Earring/tw_slides/戴珍珠耳環的少女_slide_manifest.json",
+  "manifest": "D:\\mcp\\arts\\Girl with a Pearl Earring\\tw_slides\\戴珍珠耳環的少女_slide_manifest.json",
   "original_count": 24,
-  "supplemental_count": 1,
+  "supplemental_count": 2,
   "original_final": {
     "from": "戴珍珠耳環的少女_slide_0024.png",
-    "to": "戴珍珠耳環的少女_slide_0025.png",
-    "sha256": "ad68f0f3e3f301aafda33ae00adcbe65a4040f5d316f0a061c0d1e51a8cd541f"
+    "to": "戴珍珠耳環的少女_slide_0026.png",
+    "sha256": "ee3906cc8c818c74e2a02f2f6ce802ebaeab90d53bcd305a2e2c6eb3075b8d67"
   },
   "supplemental_renames": [
     {
       "from": "戴珍珠耳環的少女_slide_0025.png",
       "to": "戴珍珠耳環的少女_slide_0024.png"
+    },
+    {
+      "from": "戴珍珠耳環的少女_slide_0026.png",
+      "to": "戴珍珠耳環的少女_slide_0025.png"
     }
   ],
-  "subtitle": "/Users/yingyuhsieh/Desktop/mcp/arts/Girl with a Pearl Earring/tw_slides/subtitle/戴珍珠耳環的少女.txt"
+  "subtitle": "D:\\mcp\\arts\\Girl with a Pearl Earring\\tw_slides\\subtitle\\戴珍珠耳環的少女.txt"
 }
