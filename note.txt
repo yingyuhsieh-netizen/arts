@@ -81,3 +81,13 @@ Use $en-video-integrate-audio-slide to combine my English narration audio, slide
 
 Save the completed video as:
 ./Gladys Nilsson/en_slides/video/Gladys_Nilsson_s_Art.mp4
+
+
+// for artists to ask all AI
+解析葛飾北齋，取得藝術家姓名（英文）與畫作名稱（英文）。
+透過 WebSearch 搜尋該畫作的相關資料，包括：
+畫作的視覺分析（構圖、色彩、技法、象徵意義）
+創作背景與動機（藝術家當時的生活狀態、歷史背景、委託緣由）
+收藏歷史（歷任藏家、拍賣紀錄、現藏地點）
+整合所有資料，以繁體中文撰寫深度分析文章，至少8000字。
+將結果存為 Markdown 檔案。
